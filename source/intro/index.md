@@ -1,6 +1,8 @@
 comments: false
 title: 教程简介
 date: 2022-10-26 09:19:11
+type: page
+swiper_index: 1 #置顶轮播图顺序，需填非负整数，数字越大越靠前
 ---
 ### 《智慧农业概论》教材
 

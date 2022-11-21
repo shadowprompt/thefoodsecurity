@@ -1,22 +1,32 @@
 <nav class="navbar-section text-center">
-    <% if (theme.nav.home.use) { %>
-        <a href="<%= url_for('/') %>" class="navbar-link"><%= __('home') %></a>
-    <% } %>
-    <% if (theme.nav.archives.use) {
-        let archiveDir = config.archive_dir;
-        if (archiveDir[archiveDir.length - 1] !== '/') archiveDir += '/'; %>
-        <a href="<%= url_for(archiveDir) %>" class="navbar-link"><%= __('archive') %></a>
-    <% } %>
-    <% if (theme.nav.search.use) { %>
-        <a href="<%= theme.nav.search.link %>" class="navbar-link"><%= __('search.main') %></a>
-    <% } %>
-    <% for (const i in theme.nav.pages){ %>
-        <a href="<%= theme.nav.pages[i].link %>" class="navbar-link"><%= i %></a>
-    <% } %>
-    <% if (theme.nav.share.use) { %>
-        <%- partial('_partial/menu/index-share', {}, {cache: theme.fragment_cache}) %>
-    <% } %>
-    <% if (theme.nav.rss.use) { %>
-        <a href="<%= url_for(config.feed.path) %>" target="_blank" class="navbar-link">RSS</a>
-    <% } %>
+        <div class="nav_tree">
+                <ul class="first">
+                        <li>About Us
+                                <ul class="second">
+                                        <li>二级菜单</li>
+                                </ul>
+                        </li>
+                        <li>Events
+                                <ul class="second">
+                                        <li>二级菜单</li>
+                                </ul>
+                        </li>
+                        <li>Initiative
+                                <ul class="second">
+                                        <li>二级菜单</li>
+                                </ul>
+                        </li>
+                        <li>Blog
+                                <ul class="second">
+                                        <li>二级菜单</li>
+                                </ul>
+                        </li>
+                        <li>Get Involved
+                                <ul class="second">
+                                        <li>二级菜单</li>
+                                </ul>
+                        </li>
+                </ul>
+        </div>
+        <div id="recent-posts"></div>
 </nav>
