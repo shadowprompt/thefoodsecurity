@@ -4,7 +4,7 @@ name: auto deploy
 on: [push, repository_dispatch]
 
 jobs:
-  prepare:
+  fetchPosts:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -20,10 +20,6 @@ jobs:
           key: ${{ runner.OS }}-npm-cache
           restore-keys: |
             ${{ runner.OS }}-npm-cache
-  fetchPosts:
-    runs-on: ubuntu-latest
-    needs: [prepare]
-    steps:
       - name: 安装 Hexo
         run: |
           export TZ='Asia/Shanghai'
@@ -55,8 +51,21 @@ jobs:
           key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
   pages:
     runs-on: ubuntu-latest
-    needs: [prepare, fetchPosts]
+    needs: [fetchPosts]
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+      - name: Cache NPM dependencies
+        uses: actions/cache@v2
+        with:
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache
       - name: Install Dependencies
         run: npm install
       - name: Install Theme Suka Dependencies
