@@ -40,6 +40,6 @@
     "repo": "thefoodsecurity",
     "token": "pE1XLNm0dJjrc61UHuPiztcqihyFgvRwo5kJVVAM",
     "onlyPublished": true,
-    "onlyPublic": true
+    "onlyPublic": false
   }
 }
