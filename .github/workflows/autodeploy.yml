@@ -51,6 +51,7 @@ jobs:
           key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
   pages:
     runs-on: ubuntu-latest
+    if: ${{ always() }}
     needs: [fetchPosts]
     steps:
       - name: Checkout
