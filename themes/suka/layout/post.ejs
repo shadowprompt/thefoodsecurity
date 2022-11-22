@@ -7,6 +7,9 @@
 <% } else if (page.layout === 'search') { %>
     <!-- ## Local Search Page ## -->
     <%- partial('_pages/search') %>
+<% } else if (page.layout === 'homepage') { %>
+    <!-- ## Home Page ## -->
+    <%- partial('_pages/homepage') %>
 <% } else { %>
     <!-- ## Post ## -->
     <%- partial('_pages/post') %>

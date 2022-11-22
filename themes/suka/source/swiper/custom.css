@@ -1,13 +1,15 @@
 * {
 	margin: 0;
 }
-.apple-retail {
-	margin: 30px 0;
+.activity-gallery {
+	margin: 0 0 30px 0
 }
 .swiper-slide {
 	text-align: center;
-	padding: 0 calc((100vw - 816px) * .15);
-	width: 816px;
+	/*padding: 0 calc((100vw - 816px) * .15);*/
+	/*width: 816px;*/
+	padding: 0 !important;
+	width: 100vw !important;
 }
 .inner figure {
 	width: 100%;
@@ -20,24 +22,28 @@
 	width: 80%;
 	text-align: left;
 	display: inline-block;
-	padding-top: 46px;
 	opacity: 0;
 	transition-duration: 1.2s;
 }
 .init .gallery-item-desc {
 	opacity: 1;
 }
-.gallery-item-desc h3 {
+.gallery-item-desc .typography-label {
 	line-height: 1.16667;
 	font-weight: 600;
 	letter-spacing: .009em;
-	color: #111;
-	font-size: 20px;
+	color: #ffffff;
+	font-size: 36px !important;
 }
-.gallery-item-desc p {
+.gallery-item-desc .typography-title {
+	display: inline-block;
+	background: #ffffff;
 	margin-top: 1em;
 	color: #333;
+	font-weight: 600;
 	font-size: 15px;
+	padding: 5px 12px;
+	border-radius: 8px;
 }
 .swiper-slide-prev .gallery-item-desc {
 	transform: translateX(-70px);
@@ -47,7 +53,12 @@
 }
 .swiper-slide-active .gallery-item-desc {
 	opacity: 1;
-	transform: translateX(0);
+	/*transform: translateX(0);*/
+	width: 60%;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
 }
 @media only screen and (max-width: 1068px) {
 	.swiper-slide {

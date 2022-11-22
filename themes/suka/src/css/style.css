@@ -819,11 +819,11 @@ a.category-link {
 }
 
 #post-content>*:first-child {
-    margin-top: 0 !important;
+    /*margin-top: 0 !important;*/
 }
 
 #post-content>*:last-child {
-    margin-bottom: 0 !important;
+    /*margin-bottom: 0 !important;*/
 }
 
 #post-content a:not([href]) {
