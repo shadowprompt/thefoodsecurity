@@ -12,7 +12,7 @@ layout: homepage
                     <figure><img src="https://www.fairsandexpos.com/files/_cache/fb64cf8d3cf26eb58f5c0ae3348bcb5c.jpg"></figure>
                     <div class="gallery-item-desc">
                         <div class="typography-label">灵感迸发，一课又一课。</div>
-                        <div class="typography-title">参加我们的实际操作互动课程，与影响广泛的艺术家、音乐家、开发者和企业家开展交流。</div>
+                        <div class="typography-title"><a href="/posts/test/">参加我们的实际操作互动课程</a></div>
                     </div>
                 </div>
             </div>
