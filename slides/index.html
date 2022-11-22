@@ -119,7 +119,7 @@
         background: #f8f9fa;
         opacity: .85;
     }
-</style><link rel="stylesheet" href="/css/style.min.css">
+</style><link rel="stylesheet" href="/css/style.min.css"><link rel="stylesheet" href="/swiper/swiper-bundle.min.css"><link rel="stylesheet" href="/swiper/custom.css"><script src="/swiper/swiper-bundle.min.js"></script>
 
 
 
@@ -139,6 +139,7 @@
 !function(t){"use strict";t.loadCSS||(t.loadCSS=function(){});var e=loadCSS.relpreload={};if(e.support=function(){var e;try{e=t.document.createElement("link").relList.supports("preload")}catch(t){e=!1}return function(){return e}}(),e.bindMediaToggle=function(t){var e=t.media||"all";function a(){t.addEventListener?t.removeEventListener("load",a):t.attachEvent&&t.detachEvent("onload",a),t.setAttribute("onload",null),t.media=e}t.addEventListener?t.addEventListener("load",a):t.attachEvent&&t.attachEvent("onload",a),setTimeout(function(){t.rel="stylesheet",t.media="only x"}),setTimeout(a,3e3)},e.poly=function(){if(!e.support())for(var a=t.document.getElementsByTagName("link"),n=0;n<a.length;n++){var o=a[n];"preload"!==o.rel||"style"!==o.getAttribute("as")||o.getAttribute("data-loadcss")||(o.setAttribute("data-loadcss",!0),e.bindMediaToggle(o))}},!e.support()){e.poly();var a=t.setInterval(e.poly,500);t.addEventListener?t.addEventListener("load",function(){e.poly(),t.clearInterval(a)}):t.attachEvent&&t.attachEvent("onload",function(){e.poly(),t.clearInterval(a)})}"undefined"!=typeof exports?exports.loadCSS=loadCSS:t.loadCSS=loadCSS}("undefined"!=typeof global?global:this);
 </script>
 
+
     <!-- ### Site Verification ### -->
     
 
@@ -146,7 +147,7 @@
     <meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="全球粮食安全科学家联盟"><meta name="msapplication-starturl" content="https://www.thefoodsecurity.org"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="全球粮食安全科学家联盟"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <!-- ### The Open Graph & Twitter Card Protocol ### -->
-    <meta property="og:title" content="学习资料 | 全球粮食安全科学家联盟"><meta property="og:site_name" content="全球粮食安全科学家联盟"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/slides/"><meta property="og:locale" content="en"><meta name="description" content="配套PPT课件     function _zhagTrack(id) {        window.LA?.track(&amp;apos;download&amp;apos;, {[id]: new Date().toLocaleString()});        window._hmt?.push([&amp;apos;_trackEvent&amp;apos;, &amp;apos;download&amp;apos;, &amp;apos;click&amp;apos;, id]);     }   智慧农业概论-第一章-绪 - John Doe - 全球粮食安全科学家联盟"><meta property="article:published_time" content="2022-10-26T09:23:04.000Z"><meta property="article:modified_time" content="2022-11-22T02:52:46.207Z"><meta property="og:updated_time" content="2022-11-22T02:52:46.207Z">
+    <meta property="og:title" content="学习资料 | 全球粮食安全科学家联盟"><meta property="og:site_name" content="全球粮食安全科学家联盟"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/slides/"><meta property="og:locale" content="en"><meta name="description" content="配套PPT课件     function _zhagTrack(id) {        window.LA?.track(&amp;apos;download&amp;apos;, {[id]: new Date().toLocaleString()});        window._hmt?.push([&amp;apos;_trackEvent&amp;apos;, &amp;apos;download&amp;apos;, &amp;apos;click&amp;apos;, id]);     }   智慧农业概论-第一章-绪 - John Doe - 全球粮食安全科学家联盟"><meta property="article:published_time" content="2022-10-26T09:23:04.000Z"><meta property="article:modified_time" content="2022-11-22T04:57:21.829Z"><meta property="og:updated_time" content="2022-11-22T04:57:21.829Z">
 
     
 
@@ -186,7 +187,7 @@
 
     <!-- ### Custom Head ### -->
     
-<!-- hexo injector head_end start --><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiperstyle.css" media="print" onload="this.media='all'"><!-- hexo injector head_end end --></head>
+</head>
 
     <body>
             
@@ -197,6 +198,8 @@
     <nav class="navbar-section text-center">
         <div class="nav_tree">
                 <ul class="first">
+                        <li><a href="/">Home</a>
+                        </li>
                         <li>About Us
                                 <ul class="second">
                                         <li>二级菜单</li>
@@ -365,30 +368,6 @@ console.log('\n %c Suka Theme (hexo-theme-suka) | © SukkaW | Verision 1.3.3 %c 
 
 <!-- ### Custom Footer ### -->
 
-    <!-- hexo injector body_end start --><script data-pjax>
-  function butterfly_swiper_injector_config(){
-    var parent_div_git = document.getElementById('recent-posts');
-    var item_html = '<div class="recent-post-item" style="height: auto;width: 100%"><div class="blog-slider swiper-container-fade swiper-container-horizontal" id="swiper_container"><div class="blog-slider__wrp swiper-wrapper" style="transition-duration: 0ms;"></div><div class="blog-slider__pagination swiper-pagination-clickable swiper-pagination-bullets"></div></div></div>';
-    console.log('已挂载butterfly_swiper')
-    parent_div_git.insertAdjacentHTML("afterbegin",item_html)
-    }
-  var elist = 'null'.split(',');
-  var cpage = location.pathname;
-  var epage = '/';
-  var flag = 0;
-
-  for (var i=0;i<elist.length;i++){
-    if (cpage.includes(elist[i])){
-      flag++;
-    }
-  }
-
-  if ((epage ==='all')&&(flag == 0)){
-    butterfly_swiper_injector_config();
-  }
-  else if (epage === cpage){
-    butterfly_swiper_injector_config();
-  }
-  </script><script defer src="https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper.min.js"></script><script defer data-pjax src="https://npm.elemecdn.com/hexo-butterfly-swiper/lib/swiper_init.js"></script><!-- hexo injector body_end end --></body>
+    </body>
 
 </html>
