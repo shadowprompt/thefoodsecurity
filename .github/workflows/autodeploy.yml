@@ -54,15 +54,10 @@ jobs:
         run: |
           cd ./themes/suka
           npm install
-      - name: 生成静态文件
-        run: |
-          hexo clean
-          hexo g
-          #gulp
-          #如果你有使用gulp的话，打开上面这一行
-
-      - name: 部署
-        run: |
-          git config --global user.name "shadowprompt"
-          git config --global user.email "huixiong.cn@gmail.com"
-          hexo deploy
+      - name: Build
+        run: npm run build
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
