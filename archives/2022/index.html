@@ -200,10 +200,10 @@
                 <div class="h_nav_header">
                         <img class="h_logo" alt="全球粮食安全科学家联盟" src="/swiper/images/carousel01.png" >
                         <div class="h_title_area">
-                                <div>
+                                <div class="h_title">
                                         全球粮食安全科学家联盟
                                 </div>
-                                <div>
+                                <div class="h_subtitle">
                                         Global Food Security Forum for Young Scientists
                                 </div>
                         </div>
@@ -217,9 +217,10 @@
                                                 <li>二级菜单</li>
                                         </ul>
                                 </li>
-                                <li><a href="/events">Events</a>
+                                <li><a href="/events/">Events</a>
                                         <ul class="second">
-                                                <li>二级菜单</li>
+                                                <li><a href="/posts/test/">test</a></li>
+                                                <li><a href="/posts/test/">test</a></li>
                                         </ul>
                                 </li>
                                 <li>Initiative
@@ -227,7 +228,7 @@
                                                 <li>二级菜单</li>
                                         </ul>
                                 </li>
-                                <li><a href="/categories/posts">Blog</a>
+                                <li><a href="/categories/posts/">Blog</a>
                                 </li>
                                 <li>Get Involved
                                         <ul class="second">
@@ -238,6 +239,22 @@
                 </div>
         </div>
 </nav>
+<script>
+        function addActive() {
+                const childrenList = document.querySelectorAll('.h_nav_tree .first>li');
+                childrenList.forEach(item => item.classList.remove('active'));
+                childrenList.forEach(item => {
+                        const hrefList = [].map.call(item.querySelectorAll('a'), (it) => it.getAttribute('href'));
+                        const isActive = hrefList.some(item => item === location.pathname);
+                        if (isActive) {
+                                item.classList.add('active');
+                        }
+                });
+
+        }
+
+        addActive();
+</script>
 
     
 </header>
