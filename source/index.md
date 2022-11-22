@@ -63,6 +63,8 @@ comments: false
         speed: 700,
         slidesPerView: 'auto',
         centeredSlides: true,
+        autoplay:true,
+        loop: true,
         on: {
             init: function() {
                 this.slides.removeClass('init');
