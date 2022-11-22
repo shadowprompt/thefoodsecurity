@@ -50,7 +50,10 @@ jobs:
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           npm install --save
-
+      - name: 安装Suka主题依赖
+        run: |
+          cd ./themes/suka
+          npm install
       - name: 生成静态文件
         run: |
           hexo clean
