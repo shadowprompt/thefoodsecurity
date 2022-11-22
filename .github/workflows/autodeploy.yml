@@ -22,6 +22,7 @@ jobs:
             ${{ runner.OS }}-npm-cache
   fetchPosts:
     runs-on: ubuntu-latest
+    needs: [prepare]
     steps:
       - name: 安装 Hexo
         run: |
@@ -54,6 +55,7 @@ jobs:
           key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
   pages:
     runs-on: ubuntu-latest
+    needs: [prepare, fetchPosts]
     steps:
       - name: Install Dependencies
         run: npm install
