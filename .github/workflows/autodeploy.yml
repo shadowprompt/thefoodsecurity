@@ -4,18 +4,25 @@ name: auto deploy
 on: [push, repository_dispatch]
 
 jobs:
-  deploy:
+  prepare:
     runs-on: ubuntu-latest
     steps:
-      - name: 检查分支
+      - name: Checkout
         uses: actions/checkout@v2
+      - name: Use Node.js 16.x
+        uses: actions/setup-node@v2
         with:
-          ref: main
-      - name: 安装 Node
-        uses: actions/setup-node@v1
+          node-version: '16'
+      - name: Cache NPM dependencies
+        uses: actions/cache@v2
         with:
-          node-version: "12.x"
-
+          path: node_modules
+          key: ${{ runner.OS }}-npm-cache
+          restore-keys: |
+            ${{ runner.OS }}-npm-cache
+  fetchPosts:
+    runs-on: ubuntu-latest
+    steps:
       - name: 安装 Hexo
         run: |
           export TZ='Asia/Shanghai'
@@ -45,12 +52,12 @@ jobs:
         with:
           path: node_modules
           key: ${{runner.OS}}-${{hashFiles('**/package-lock.json')}}
-
-      - name: 安装依赖
-        if: steps.cache.outputs.cache-hit != 'true'
-        run: |
-          npm install --save
-      - name: 安装Suka主题依赖
+  pages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install Dependencies
+        run: npm install
+      - name: Install Theme Suka Dependencies
         run: |
           cd ./themes/suka
           npm install
