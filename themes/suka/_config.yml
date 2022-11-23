@@ -97,7 +97,7 @@ nav:
   share:
     use: false
   search:
-    use: false
+    use: true
     link: /search
   pages:
     首页:
@@ -228,11 +228,11 @@ comment:
 analytics:
   google_site_id:
   gtags_site_id:
-  baidu_site_id: 8abc10d25c6c261158ee346e2b0890ab
+  baidu_site_id: 60d8ad061c520f52c21ee1ab1b19f1e6
   cnzz_site_id:
   tencent_site_id:
   tencent_mta_id:
-  _51la_site_id: JsEDis2XR4e8pCfD
+  _51la_site_id: Jt3zfy0N5kaTvGpd
 
 # Views Analytics
 # Busuanzi
