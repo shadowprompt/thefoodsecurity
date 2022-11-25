@@ -1,4 +1,5 @@
 ---
+title: Events
 _showUpdateTime: false
 toc: false
 comments: false

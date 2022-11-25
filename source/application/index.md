@@ -1,5 +1,5 @@
 ---
-title: Search
+title: Get Involved
 date:
 layout: application
 ---

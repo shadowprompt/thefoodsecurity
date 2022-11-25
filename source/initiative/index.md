@@ -1,4 +1,5 @@
 ---
+title: Initiative
 _showUpdateTime: false
 toc: false
 comments: false

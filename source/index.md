@@ -1,5 +1,5 @@
 ---
-title: 首页
+title: Home
 comments: false
 toc: false
 layout: homepage
@@ -10,7 +10,7 @@ layout: homepage
             <div class="swiper-slide init">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="/img/banner.jpeg"></figure>
+                        <figure><img src="https://wp-img.daozhao.com.cn/thefoodsecurity/banner.jpeg"></figure>
                     </a>
                 </div>
             </div>

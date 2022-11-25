@@ -41,7 +41,7 @@ html .btn:focus {
     box-shadow: none !important;
 }
 body.body {
-    /*padding-left: calc(100vw - 100%);*/
+    padding-left: calc(100vw - 100%);
     /*font-family: 微软雅黑, "Microsoft YaHei";*/
 }
 * {
@@ -261,6 +261,7 @@ header .divider {
     /*padding: 1rem 0;*/
     /*background: #e6e6e6;*/
     box-shadow: 0 3px 10px 0 rgb(0 0 0 / 30%);
+    margin-left: -8px; /*抵消body防止滚动条造成的偏移*/
     margin-bottom: 4px;
 }
 .header-title {
@@ -1659,9 +1660,8 @@ a.timeline-tile-title span:hover {
     text-align: left;
 }
 .h_logo{
-    width: 80px;
-    height: 50px;
-    margin-right: 16px;
+    height: 40px;
+    margin-right: 8px;
 }
 .h_title {
     font-size: 16px;
@@ -1673,7 +1673,6 @@ a.timeline-tile-title span:hover {
 .h_alliance_logo {
     height: 40px;
     width: auto;
-    max-width: 64px;
     margin: 0 2px;
 }
 
@@ -1696,9 +1695,8 @@ a.timeline-tile-title span:hover {
 }
 @media screen and (min-width: 669px) {
     .h_logo{
-        width: 70px;
         height: 40px;
-        margin-right: 24px;
+        margin-right: 12px;
     }
     .h_title {
         font-size: 12px;
@@ -1709,15 +1707,14 @@ a.timeline-tile-title span:hover {
 }
 @media screen and (min-width: 1290px) {
     .h_logo{
-        width: 100px;
-        height: 60px;
-        margin-right: 24px;
+        height: 50px;
+        margin-right: 12px;
     }
     .h_title {
-        font-size: 22px;
+        font-size: 18px;
     }
     .h_subtitle {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 
