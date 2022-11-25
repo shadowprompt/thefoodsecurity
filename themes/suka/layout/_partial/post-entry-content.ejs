@@ -16,6 +16,7 @@
 
 
     <!-- Date & Category -->
+<% if (post._showAuthor) { %>
     <div class="card-footer post-entry-info text-gray">
         <img class="author-thumb lazyload" data-src="<%= url_for(theme.img.avatar) %>" src="<%= lazyloadImgSrc %>" alt="<%= config.author %>'s Avatar">
         <time><%= date(post.date, config.date_format) %></time>
@@ -32,3 +33,4 @@
             <%- partial('_plugin/valine-counter/index_post', {}, {cache: theme.fragment_cache}) %>
         <% } %>
     </div>
+<% } %>

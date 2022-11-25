@@ -321,29 +321,29 @@ header .divider {
 
 @media screen and (min-width: 481px) {
     .main-container {
-        max-width: 28.4rem;
         padding-right: .5rem;
         padding-left: .5rem;
+        max-width: calc(100vw - .5rem);
     }
 }
 
 @media screen and (min-width: 721px) {
     .main-container {
-        max-width: 33.5rem;
-        padding-right: 1.6rem;
-        padding-left: 1.6rem;
+        max-width: 41.4rem;
+        padding-right: 1rem;
+        padding-left: 1rem;
     }
 }
 
 @media screen and (min-width: 961px) {
     .main-container {
-        max-width: 41.2rem;
+        max-width: 36rem;
     }
 }
 
 @media screen and (min-width: 1335px) {
     .main-container {
-        max-width: 42.9rem;
+        max-width: 48rem;
     }
 }
 

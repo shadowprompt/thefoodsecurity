@@ -2,16 +2,19 @@
 _showUpdateTime: false
 toc: false
 comments: false
+_showCategoryTitle: false
+_showAuthor: false
+title: Keep calm and trade on: China’s decisive role in agricultural markets under turmoil
 categories:
 - [posts]
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">
-    <p>Source: IAMO Press</p>
     <h1>
         Keep calm and trade on: China’s decisive role in agricultural markets
         under turmoil
     </h1>
+    <p>Source: IAMO Press</p>
     <p class="subheader">
         IAMO Policy Brief 45 looks at how China is ensuring its domestic food
         security in the face of recent crises

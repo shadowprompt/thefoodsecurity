@@ -1,8 +1,10 @@
-<div class="container">
+
     <div class="main-container">
         <main>
             <!-- # Title # -->
-            <h2 class="page-title"><%= __("category") + " : " + page.category %></h2>
+            <% if (page._showCategoryTitle) { %>
+                <h2 class="page-title"><%= __("category") + " : " + page.category %></h2>
+            <%}%>
             <!-- # Post List # -->
             <div class="post-stream-container">
                 <% page.posts.sort('date', -1).each(function(post){ %>
@@ -14,4 +16,3 @@
         </main>
         <%- partial('_partial/pagination') %>
     </div>
-</div>

@@ -9,13 +9,9 @@ layout: homepage
         <div class="swiper-wrapper">
             <div class="swiper-slide init">
                 <div class="inner">
-                    <figure><img src="https://www.fairsandexpos.com/files/_cache/fb64cf8d3cf26eb58f5c0ae3348bcb5c.jpg"></figure>
-                    <div class="gallery-item-desc">
-                        <div class="typography-label">灵感迸发，一课又一课。</div>
-                        <a href="/posts/test/">
-                            <div class="typography-title">参加我们的实际操作互动课程</div>
-                        </a>
-                    </div>
+                    <a href="/events/">
+                        <figure><img src="/img/banner.jpeg"></figure>
+                    </a>
                 </div>
             </div>
             <div class="swiper-slide">
