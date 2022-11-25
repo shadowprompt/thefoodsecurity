@@ -1532,7 +1532,7 @@ a.timeline-tile-title span:hover {
     flex-wrap: wrap;
 }
 .h_nav_tree .first>li {
-    height: 48px;
+    height: 42px;
     list-style: none;
     text-align: center;
     padding: 0 8px;
@@ -1684,6 +1684,9 @@ a.timeline-tile-title span:hover {
 @media screen and (min-width: 961px) {
     .h_nav_tree{
         font-size: 16px;
+    }
+    .h_nav_tree .first>li {
+        height: 48px;
     }
     .h_logo{
         height: 50px;
