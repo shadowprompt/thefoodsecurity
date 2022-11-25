@@ -8,7 +8,7 @@ _showPagination: false
 _showAuthor: false
 title: Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis
 categories:
-- [blogs]
+- [posts]
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">

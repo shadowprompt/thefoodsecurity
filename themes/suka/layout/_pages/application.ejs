@@ -187,51 +187,52 @@
 </section>
 <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.0.0/dist/av-min.js"></script>
 <script>
-    window.AV.init({
-        appId: 'n87e56Pd4vy8Mc5lBhD5zcI8-gzGzoHsz',
-        appKey: 'ewwupYEWGyfQU6FioTg6IhCQ',
-        serverURLs: "https://n87e56pd.lc-cn-n1-shared.com"
-    });
+    (function (){
+        window.AV.init({
+            appId: 'n87e56Pd4vy8Mc5lBhD5zcI8-gzGzoHsz',
+            appKey: 'ewwupYEWGyfQU6FioTg6IhCQ',
+            serverURLs: "https://n87e56pd.lc-cn-n1-shared.com"
+        });
 
-    const formItem = document.querySelector('#ajax-contact');
-    formItem && formItem.addEventListener('submit', submitFn);
+        const formItem = document.querySelector('#ajax-contact');
+        formItem && formItem.addEventListener('submit', submitFn);
 
-    function submitFn(e) {
-        e.preventDefault();
-        const list = ['name', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
-        const params = list.reduce((acc, curr) => {
-            const dom = document.querySelector('#' + curr);
-            const value = dom && dom.value;
-            if ([void 0, null].includes(value)) {
-                return acc;
-            }
-            return {
-                ...acc,
-                [curr]: value,
-            }
-        }, {});
-        console.log('params', params);
-        const Forms = window.AV.Object.extend("userApplication");
-        const formObject = new Forms();
-        formObject.save(params).then((result) => {
-            console.log('success', result);
-            formItem.reset();
-            echoMessage('We have received your application and will review and reply.');
+        function submitFn(e) {
+            e.preventDefault();
+            const list = ['name', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
+            const params = list.reduce((acc, curr) => {
+                const dom = document.querySelector('#' + curr);
+                const value = dom && dom.value;
+                if ([void 0, null].includes(value)) {
+                    return acc;
+                }
+                return {
+                    ...acc,
+                    [curr]: value,
+                }
+            }, {});
+            const Forms = window.AV.Object.extend("involvedMembers");
+            const formObject = new Forms();
+            formObject.save(params).then((result) => {
+                formItem.reset();
+                echoMessage('We have received your submission and will review and reply.');
 
-        }).catch(err => {
-            console.log('error', err);
-        })
+            }).catch(err => {
+                echoMessage('Something error, please try later');
+                console.log('error', err);
+            })
 
-        function echoMessage(msg) {
-            const messageItem = document.querySelector('#form-message');
-            if (messageItem) {
-                messageItem.innerHTML = msg || '';
-            }
-            if (msg) {
-                setTimeout(() => {
-                    echoMessage();
-                }, 4000);
+            function echoMessage(msg) {
+                const messageItem = document.querySelector('#form-message');
+                if (messageItem) {
+                    messageItem.innerHTML = msg || '';
+                }
+                if (msg) {
+                    setTimeout(() => {
+                        echoMessage();
+                    }, 4000);
+                }
             }
         }
-    }
+    })();
 </script>

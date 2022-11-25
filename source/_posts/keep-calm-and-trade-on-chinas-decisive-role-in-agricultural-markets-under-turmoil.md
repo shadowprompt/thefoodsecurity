@@ -8,7 +8,7 @@ _showPagination: false
 _showAuthor: false
 title: "Keep calm and trade on: China’s decisive role in agricultural markets under turmoil"
 categories:
-- [blogs]
+- [posts]
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">
