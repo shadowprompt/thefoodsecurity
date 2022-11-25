@@ -14,32 +14,6 @@ layout: homepage
                     </a>
                 </div>
             </div>
-            <div class="swiper-slide">
-                <div class="inner">
-                    <figure><img src="https://www.fairsandexpos.com/files/_cache/5553cc0ee6e1ca9311f1453775d8cc67.jpg"></figure>
-                    <div class="gallery-item-desc">
-                        <div class="typography-label">照片和视频</div>
-                        <div class="typography-title">探索如何拍摄出你乐于分享的照片和视频。这里有“光影漫步”、“光影实验室”、“Pro 行家讲座”和“进阶讲座”等各种课程等你参加。</div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="inner">
-                    <figure><img src="https://www.fairsandexpos.com/files/_cache/4c452b89fd37f07ea08bc6205e6e3800.png"></figure>
-                    <div class="gallery-item-desc">
-                        <div class="typography-label">音乐</div>
-                        <div class="typography-title">你可以参加“进阶讲座”和“音乐实验室”等课程，开始创作属于自己的节拍；也可以参加“Pro 行家讲座”课程，让自己的音乐制作能力更进一步。</div>
-                    </div>
-                </div>
-            </div>
-            <div class="swiper-slide">
-                <div class="inner">
-                    <figure><img src="https://www.fairsandexpos.com/files/_cache/9989b389fdb3a3d23367fbe67663a9ee.png"></figure>
-                    <div class="gallery-item-desc">
-                        <div class="typography-title">来编写你的第一行代码，这比你想象的要容易多了。我们有“课外一小时”、“夏令营”、“进阶讲座”等各种课程，来教你学习如何编程。</div>
-                    </div>
-                </div>
-            </div>
         </div>
         <div class="swiper-button-prev"></div>
         <!--左箭头-->
