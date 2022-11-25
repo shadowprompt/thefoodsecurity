@@ -139,7 +139,7 @@
     <meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="Global Food Security Forum for Young Scientists"><meta name="msapplication-starturl" content="https://www.thefoodsecurity.org"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Global Food Security Forum for Young Scientists"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <!-- ### The Open Graph & Twitter Card Protocol ### -->
-    <meta property="og:title" content="Search | Global Food Security Forum for Young Scientists"><meta property="og:site_name" content="Global Food Security Forum for Young Scientists"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/application/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Global Food Security Forum for Young Scientists"><meta property="article:published_time" content="2022-11-25T03:55:50.030Z"><meta property="article:modified_time" content="2022-11-25T03:55:50.030Z"><meta property="og:updated_time" content="2022-11-25T03:55:50.030Z">
+    <meta property="og:title" content="Search | Global Food Security Forum for Young Scientists"><meta property="og:site_name" content="Global Food Security Forum for Young Scientists"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/application/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Global Food Security Forum for Young Scientists"><meta property="article:published_time" content="2022-11-25T05:17:31.016Z"><meta property="article:modified_time" content="2022-11-25T05:17:31.016Z"><meta property="og:updated_time" content="2022-11-25T05:17:31.016Z">
 
     
 
@@ -217,7 +217,7 @@
                                 </li>
                                 <li><a href="/initiative/">Initiative</a>
                                 </li>
-                                <li><a href="/categories/posts/">Blog</a>
+                                <li><a href="/categories/blogs/">Blogs</a>
                                 </li>
                                 <li>About Us
                                 </li>
@@ -278,10 +278,10 @@
                                 <input type="text" class="form-control" id="degree" required>
                             </div>
                             <div class="col-lg-2 col-md-2">
-                                <span class="contact-label">出生年月</span>
+                                <span class="contact-label fieldRequired">出生年月</span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="birthday">
+                                <input type="text" class="form-control" id="birthday" required>
                             </div>
                         </div>
                         <div class="form-group row">
@@ -292,18 +292,18 @@
                                 <input type="email" class="form-control" id="email" required>
                             </div>
                             <div class="col-lg-2 col-md-2">
-                                <span class="contact-label">手机号</span>
+                                <span class="contact-label fieldRequired">手机号</span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="phone">
+                                <input type="text" class="form-control" id="phone" required>
                             </div>
                         </div>
                         <div class="form-group row">
-                            <div class="col-lg-2 col-md-2 contact-label">
+                            <div class="col-lg-2 col-md-2 contact-label fieldRequired">
                                 <span>工作单位</span>
                             </div>
                             <div class="col-lg-10 col-md-10">
-                                <input type="text" class="form-control" id="work" placeholder="">
+                                <input type="text" class="form-control" id="work" placeholder="" required>
                             </div>
                         </div>
                         <div class="form-group row">
@@ -338,10 +338,10 @@
                         </div>
                         <div class="form-group row">
                             <div class="col-lg-2 col-md-2">
-                                <span class="contact-label">主要研究领域与代表性成果</span>
+                                <span class="contact-label fieldRequired">主要研究领域与代表性成果</span>
                             </div>
                             <div class="col-lg-10 col-md-10">
-                                <textarea class="form-control" id="achievement" rows="5"></textarea>
+                                <textarea class="form-control" id="achievement" rows="5" required></textarea>
                             </div>
                         </div>
                         <button type="submit" class="submitBtn" onsubmit="submitFn()">
