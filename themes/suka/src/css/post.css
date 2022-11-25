@@ -32,8 +32,8 @@
 #events_blog .introduce_item {
     margin: 4px 0;
 }
-#initiative_blog {
-    color: #666666;
+#initiative_blog * {
+    color: #000000;
     font-family: 微软雅黑, "Microsoft YaHei";
 }
 #initiative_blog .post_flex_center_center{
