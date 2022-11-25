@@ -40,8 +40,9 @@ html a:focus,
 html .btn:focus {
     box-shadow: none !important;
 }
-body {
+body.body {
     /*padding-left: calc(100vw - 100%);*/
+    /*font-family: 微软雅黑, "Microsoft YaHei";*/
 }
 * {
     box-sizing: border-box;
@@ -1669,7 +1670,44 @@ a.timeline-tile-title span:hover {
 .h_subtitle {
     font-size: 7px;
 }
-@media screen and (min-width: 481px) {
+.h_alliance_logo {
+    height: 40px;
+    width: auto;
+    max-width: 64px;
+    margin: 0 2px;
+}
+
+
+@media screen and (max-width: 669px) {
+    .h_title {
+        font-size: 12px;
+    }
+    .h_subtitle {
+        display: none;
+    }
+}
+@media screen and (max-width: 546px) {
+    .h_title {
+        font-size: 10px;
+    }
+    .h_subtitle {
+        display: none;
+    }
+}
+@media screen and (min-width: 669px) {
+    .h_logo{
+        width: 70px;
+        height: 40px;
+        margin-right: 24px;
+    }
+    .h_title {
+        font-size: 12px;
+    }
+    .h_subtitle {
+        font-size: 12px;
+    }
+}
+@media screen and (min-width: 1290px) {
     .h_logo{
         width: 100px;
         height: 60px;
@@ -1679,7 +1717,7 @@ a.timeline-tile-title span:hover {
         font-size: 22px;
     }
     .h_subtitle {
-        font-size: 10px;
+        font-size: 18px;
     }
 }
 

@@ -1,73 +1,160 @@
-<div id="vsb_content_11192_u91">
-    <div id="vsb_content">
-        <p style="text-align: center; line-height: 3em;"><span style="color: rgb(38, 38, 38); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px;"></span></p>
-        <p style="text-align: center"><img src="https://emc.hzau.edu.cn/__local/0/E5/70/C584C66A0A479E2F82D2EC3FB85_EAE72A25_BB15.jpg" width="910" height="217" vsbhref="vurl" vurl="/_vsl/0E570C584C66A0A479E2F82D2EC3FB85/EAE72A25/BB15" vheight=" 217px" vwidth=" 910px" orisrc="https://emc.hzau.edu.cn/__local/B/22/76/2699ED883AC07E2615586FEEE9D_0AF871CA_966CA.jpg" class="img_vsb_content" style="width: 910px; height: 217px;"></p>
-        <p style="text-align: center; line-height: 3em;"><span style="color: rgb(38, 38, 38); font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 24px;">全球粮食安全青年科学家论坛</span><br></p>
-        <p style="line-height: 3em; text-align: center;"><span style="color: rgb(38, 38, 38); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 24px;">Global Food Security Forum for Young Scientists</span></p>
-        <p style="text-align: left;"><span style="color: rgb(63, 63, 63);"><span style="color: rgb(38, 38, 38); font-family: arial, helvetica, sans-serif; font-size: 16px;">The forum aims to bring together scientists, scholars and innovators from different</span> <span style="color: rgb(38, 38, 38); font-family: arial, helvetica, sans-serif; font-size: 16px;">subjects to discuss their research fi<span style="font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">ndings and exchange innovative ideas on all aspects of global food security.</span></span></span></p>
-        <p style="text-align: left;"><span style="color: rgb(38, 38, 38); font-family: arial, helvetica, sans-serif; font-size: 16px;"><br></span></p>
-        <p style="text-align: left;"><span style="color: rgb(63, 63, 63); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px;">Co-organizers:</span></p>
-        <p><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"></span></p>
-        <p style="text-align: left;"><a href="http://www.hzau.edu.cn/" target="_blank" style="text-decoration: none;">&nbsp; &nbsp; &nbsp;&nbsp;<img width="70" height="70" title="" alt="" src="https://emc.hzau.edu.cn/__local/B/53/48/8A7A3721AD94F4C156DEB504688_D27341E1_18633.jpeg" border="0" vspace="0" hspace="0" vwidth=" 70px" vheight=" 70px" vurl="/_vsl/B53488A7A3721AD94F4C156DEB504688/D27341E1/18633" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/B/53/48/8A7A3721AD94F4C156DEB504688_D27341E1_18633.jpeg" class="img_vsb_content" style="width: 70px; height: 70px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0);">Huazhong Agricultural University (HZAU)</span></a></p>
-        <p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 21px; color: rgb(0, 0, 0); text-decoration: none;">&nbsp;</span><a href="https://www.ifpri.org/" target="_blank" style="text-decoration: none;"><span style="font-family: arial, helvetica, sans-serif; font-size: 21px; color: rgb(0, 0, 0);"> &nbsp; &nbsp;<img width="500" height="272" src="https://emc.hzau.edu.cn/__local/0/05/0C/9C51070797E9E0789BF1092DE42_AAC50BC1_8869.png" vwidth=" 85px" vheight=" 44px" vurl="/_vsl/0050C9C51070797E9E0789BF1092DE42/AAC50BC1/8869" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/0/05/0C/9C51070797E9E0789BF1092DE42_AAC50BC1_8869.png" class="img_vsb_content" style="width: 85px; height: 44px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;International Food Policy Research Institute (IFPRI)</span></a></p>
-        <p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif; font-size: 21px; color: rgb(0, 0, 0); text-decoration: underline;"></span></p>
-        <p style="line-height: 1.5em;"><a href="https://www.cimmyt.org/" target="_blank"><img width="283" height="69" src="https://emc.hzau.edu.cn/__local/7/FB/38/32968E2F63C606853D82F787B29_C1E7CE3A_1B6A.png" vwidth=" 130px" vheight=" 42px" vurl="/_vsl/7FB3832968E2F63C606853D82F787B29/C1E7CE3A/1B6A" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/7/FB/38/32968E2F63C606853D82F787B29_C1E7CE3A_1B6A.png" class="img_vsb_content" style="width: 130px; height: 42px; float: left;"></a></p>
-        <p style="line-height: 1.5em;"><a href="https://www.cimmyt.org/" target="_blank" style="text-decoration: underline; color: rgb(255, 255, 255);"><span style="color: rgb(255, 255, 255);">&nbsp;</span></a><span style="text-decoration: underline; color: rgb(255, 255, 255);">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-        <p style="line-height: 1.5em;"><span style="color: rgb(0, 0, 0); text-decoration: none;"><span style="text-decoration: none; color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 20px;">&nbsp;&nbsp;&nbsp;</span><span style="text-decoration: none; color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 20px;">&nbsp; &nbsp;</span></span><a href="https://www.cimmyt.org/" target="_blank" style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0); text-decoration: none;"><span style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0);">International Maize and Wheat Improvement Center (CIMMYT</span></a><span style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0); text-decoration: underline;">)</span></p>
-        <p style="line-height: 1.5em;"><span style="color: rgb(0, 0, 0); text-decoration: none;">&nbsp;</span></p>
-        <p style="line-height: 1.5em;"><span style="font-size: 21px; color: rgb(0, 0, 0); text-decoration: underline;"></span></p>
-        <p style="line-height: 1.75em;"><a href="https://www.iamo.de/en/" target="_blank" style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0); text-decoration: underline;"><span style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0);"><img width="250" height="115" src="https://emc.hzau.edu.cn/__local/A/FB/C9/DEEAFA992EDC1F7E6A008BEC95F_D020A6BC_4D25.png" vwidth=" 121px" vheight=" 49px" vurl="/_vsl/AFBC9DEEAFA992EDC1F7E6A008BEC95F/D020A6BC/4D25" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/A/FB/C9/DEEAFA992EDC1F7E6A008BEC95F_D020A6BC_4D25.png" class="img_vsb_content" style="width: 121px; height: 49px; float: left;"><span style="text-decoration: underline; font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(255, 255, 255);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></a><a href="https://www.iamo.de/en/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-size: 20px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Leibniz</span><span style="font-size: 20px; font-family: arial, helvetica, sans-serif;"> <span style="text-decoration: none; font-size: 20px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Institute</span>&nbsp;f<span style="text-decoration: none; font-size: 20px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">or</span> <span style="text-decoration: none; font-size: 20px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Agricultural</span></span><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 20px;">&nbsp;</span><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0);">Development</span></a></p>
-        <p style="line-height: 1.75em;"><span style="text-decoration: none;"><span style="text-decoration: none; color: rgb(0, 0, 0);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span><a href="https://www.iamo.de/en/" target="_blank" style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0); text-decoration: none;"><span style="font-family: arial, helvetica, sans-serif; font-size: 20px; color: rgb(0, 0, 0);">in&nbsp;<span style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 21px;">Transformation Economies (IAMO</span></span></a><a href="https://www.iamo.de/en/" target="_blank" style="font-family: arial, helvetica, sans-serif; font-size: 21px; color: rgb(0, 0, 0); text-decoration: underline;"><span style="font-size: 21px; color: rgb(0, 0, 0);">)</span></a></p>
-        <p style="line-height: 3em;"><span style="color: rgb(63, 63, 63); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px;">Dates: </span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 18px;"><span style="color: rgb(0, 0, 0); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 16px;"></span><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="color: rgb(127, 127, 127); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 16px;"></span><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 18px;">- <span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">2-3 December 2022</span></span></span></span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(63, 63, 63); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px;"><span style="color: rgb(63, 63, 63); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px; text-decoration: none;"></span><br>Venues: </span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 18px;"><span style="color: rgb(31, 73, 125); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 16px;"></span><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">-</span> <span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">Huazhong Agricultural University, Wuhan, China (in-person)</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">-</span> <span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">ZOOM Meeting (online)</span></span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(89, 89, 89); font-family: arial, helvetica, sans-serif; font-size: 18px;"><br></span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 18px;"><span style="font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px;">Topics of Forum 2022:</span><span style="font-family: arial, helvetica, sans-serif; font-size: 18px;"><br><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">- Resilience of global food system and food supply chains</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">- C</span><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">hange of d<span style="font-family: 微软雅黑, &quot;Microsoft YaHei&quot;; font-size: 18px;"></span>ietary patterns and transition of agri-food system</span><br>- D<span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">igital and smart food production</span><br><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; color: rgb(0, 0, 0);">- Sustainable agricultural development and maintenance of environment</span></span></span></p>
-        <p style="line-height: 3em;"><span style="color: rgb(0, 0, 0); font-family: arial, helvetica,sans-serif; font-size: 18px;"><br></span></p>
-        <p style="line-height: 4em;"><span style="color: rgb(63, 63, 63); font-family: &quot;arial black&quot;, &quot;avant garde&quot;; font-size: 18px;">Keynote speakers:<span style="color: rgb(255, 255, 255); font-family: 宋体,SimSun; font-size: 10px;"><strong><span style="font-family: 宋体,SimSun; font-size: 10px;"><br></span></strong></span></span></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="color: rgb(0, 0, 0); font-family: arial black,avant garde; font-size: 18px;">&nbsp; <a href="https://qifa.hzau.edu.cn/" target="_blank"><img width="238" height="210" src="https://emc.hzau.edu.cn/__local/D/86/29/09ECD18BBA2CD7432A3FE1B6DB8_FA94EBF8_14D57.png" vwidth=" 109px" vheight=" 104px" vurl="/_vsl/D862909ECD18BBA2CD7432A3FE1B6DB8/FA94EBF8/14D57" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/D/86/29/09ECD18BBA2CD7432A3FE1B6DB8_FA94EBF8_14D57.png" class="img_vsb_content" style="width: 109px; height: 104px; float: left;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="color: rgb(0, 0, 0); font-family: arial black,avant garde; font-size: 18px;"><br></span></p>
-        <p style="line-height: 1.5em;"><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 18px;"></span></p>
-        <p style="text-align: left; line-height: 1.5em;">&nbsp;</p>
-        <p style="line-height: 1.5em;"><span style="color: rgb(0, 0, 0); font-family: arial, helvetica, sans-serif; font-size: 18px;"></span></p>
-        <p style="line-height: 1.75em;"><a href="https://qifa.hzau.edu.cn/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Prof. Dr.</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Zhang</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Qifa</span></span></a></p>
-        <p style="text-align: left; line-height: 1.75em;"><a href="https://qifa.hzau.edu.cn/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">A<span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">cademician </span></span><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">of Chinese Academy of Sciences&nbsp;</span></a></p>
-        <p style="text-align: left; line-height: 1.75em;"><a href="https://qifa.hzau.edu.cn/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">P<span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">r</span></span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">ofessor in Huazhong Agricultural</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">University</span></span></a></p>
-        <p style="line-height: 1.5em;">&nbsp;<span style="font-size: 18px;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="font-family: Arial;"><a href="https://www.cimmyt.org/people/bram-govaerts/" target="_blank"><span style="color: rgb(0, 0, 0); font-family: arial black,avant garde; font-size: 18px;"><img width="298" height="263" src="https://emc.hzau.edu.cn/__local/5/8A/D6/C9627F46FC9DEC9D850F3CD8C4A_CB53CBAC_147D9.png" vwidth=" 112px" vheight=" 106px" vurl="/_vsl/58AD6C9627F46FC9DEC9D850F3CD8C4A/CB53CBAC/147D9" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/5/8A/D6/C9627F46FC9DEC9D850F3CD8C4A_CB53CBAC_147D9.png" class="img_vsb_content" style="width: 112px; height: 106px; float: left;"></span></a><span style="font-family: Arial; text-decoration: none;"><strong><span style="font-size: 18px; text-decoration: none;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong></span></span></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="font-family: Arial; text-decoration: none;"><strong><span style="font-size: 18px; text-decoration: none;"><br></span></strong></span></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="font-family: Arial; text-decoration: none;"><strong><span style="font-size: 18px; text-decoration: none;"><br></span></strong></span></p>
-        <p style="text-align: left; line-height: 1.75em;"><a href="https://www.cimmyt.org/people/bram-govaerts/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Dr.&nbsp;</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Bram</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Govaerts<span style="font-family: arial, helvetica, sans-serif; font-size: 16px;">&nbsp;</span></span><br></span></a></p>
-        <p style="text-align: left; line-height: 1.75em;"><a href="https://www.cimmyt.org/people/bram-govaerts/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Winner&nbsp;</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">of Norman</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Borlaug</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Field</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Award </span><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">for World Food Prize</span></span></a></p>
-        <p style="text-align: left; line-height: 1.75em;"><a href="https://www.cimmyt.org/people/bram-govaerts/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Director General</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">of</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">CIMMYT</span></span></a></p>
-        <p style="text-align: left; line-height: 1.5em;"><span style="font-family: arial, helvetica, sans-serif; font-size: 18px; text-decoration: none;"><br></span></p>
-        <p style="text-align: left; line-height: normal;"><a href="https://www.iamo.de/en/institute/staff/details/herzfeld/" target="_blank"><span style="color: rgb(0, 0, 0); font-family: arial, helvetica,sans-serif; font-size: 18px;"><img width="130" height="113" src="https://emc.hzau.edu.cn/__local/1/22/CE/DB642A863E81FA2A51CD418AF3D_1DB475D5_82D3.png" vwidth=" 106px" vheight=" 107px" vurl="/_vsl/122CEDB642A863E81FA2A51CD418AF3D/1DB475D5/82D3" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/1/22/CE/DB642A863E81FA2A51CD418AF3D_1DB475D5_82D3.png" class="img_vsb_content" style="width: 106px; height: 107px; display: inline;"></span></a></p>
-        <p style="text-align: left; line-height: 1.5em;"><a href="https://www.iamo.de/en/institute/staff/details/herzfeld/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Prof.</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Dr.</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Thomas</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Herzfeld</span></span></a></p>
-        <p style="text-align: left; line-height: 1.5em;"><a href="https://www.iamo.de/en/institute/staff/details/herzfeld/" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">Director</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">of</span> <span style="text-decoration: none; font-family: arial, helvetica, sans-serif; font-size: 16px; color: rgb(0, 0, 0);">IAMO</span></span></a></p>
-        <p style="text-align: left; line-height: normal;"><span style="color: rgb(255, 255, 255); font-family: arial, helvetica, sans-serif; font-size: 10px;">1</span><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif; font-size: 16px;"><br></span></p>
-        <p style="line-height: normal;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank"><span style="font-family: Arial;"><img width="126" height="118" src="https://emc.hzau.edu.cn/__local/F/8D/81/927A708B829A3F1015D4A88FB60_7E851FF7_2DF70.png" vwidth=" 126px" vheight=" 118px" vurl="/_vsl/F8D81927A708B829A3F1015D4A88FB60/7E851FF7/2DF70" vsbhref="vurl" orisrc="https://emc.hzau.edu.cn/__local/F/8D/81/927A708B829A3F1015D4A88FB60_7E851FF7_2DF70.png" class="img_vsb_content" style="width: 126px; height: 118px; float: left;"></span></a><a href="https://www.ifpri.org/profile/derek-headey" target="_blank"><span style="font-family: Arial;"><br></span></a></p>
-        <p style="line-height: normal;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank"><span style="font-family: Arial;"><br></span></a></p>
-        <p style="line-height: normal;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank"><span style="font-family: Arial;"><br></span></a></p>
-        <p style="line-height: normal;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank">&nbsp;</a></p>
-        <p style="line-height: normal;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank">&nbsp;</a></p>
-        <p style="line-height: normal;">&nbsp;</p>
-        <p style="line-height: 1.5em;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank"><span style="color: rgb(63, 63, 63); font-family: Arial; font-size: 16px;"><br></span></a></p>
-        <p style="line-height: 1.75em;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Dr.&nbsp;</span><span style="color: rgb(63, 63, 63); font-family: Arial; font-size: 16px;"><span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Derek</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Headey</span></span></a></p>
-        <p style="line-height: 1.75em;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Senior</span><span style="color: rgb(63, 63, 63); font-family: Arial; font-size: 16px;"> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Research</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Fellow</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">at</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">IFPRI</span></span></a></p>
-        <p style="line-height: 1.75em;"><a href="https://www.ifpri.org/profile/derek-headey" target="_blank" style="text-decoration: none;"><span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Winner</span><span style="color: rgb(63, 63, 63); font-family: Arial; font-size: 16px;"> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">of</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">AAEA</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Quality</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">of</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Communication</span> <span style="text-decoration: none; font-family: Arial; font-size: 16px; color: rgb(0, 0, 0);">Award</span></span></a></p>
-        <p style="line-height: 1.75em;"><a href="https://africa.wisc.edu/staff/chavas-jean-paul/" target="_blank"><img src="https://emc.hzau.edu.cn/__local/D/3D/3D/2BBD0A9A2A3DCABBE552F715072_CBE17FE5_A214.png" width="119" height="118" vsbhref="vurl" vurl="/_vsl/D3D3D2BBD0A9A2A3DCABBE552F715072/CBE17FE5/A214" vheight=" 118px" vwidth=" 119px" orisrc="https://emc.hzau.edu.cn/__local/D/3D/3D/2BBD0A9A2A3DCABBE552F715072_CBE17FE5_A214.png" class="img_vsb_content" style="width: 119px; height: 118px;"></a></p>
-        <p style="line-height: 1.75em;"><a href="https://africa.wisc.edu/staff/chavas-jean-paul/" target="_blank"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Prof.</span><span style="font-size: 16px; font-family: arial, helvetica, sans-serif;"> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Jean-Paul</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Chavas</span></span></a></p>
-        <p style="line-height: 1.75em;"><a href="https://africa.wisc.edu/staff/chavas-jean-paul/" target="_blank"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Department&nbsp;</span><span style="font-size: 16px; font-family: arial, helvetica, sans-serif;"><span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">of</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Agricultural</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">and</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Applied</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Economics,</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">University</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">of</span> <span style="font-size: 16px; font-family: arial, helvetica, sans-serif; color: rgb(0, 0, 0);">Wisconsin-Madison</span></span></a></p>
-        <p><span style="color: rgb(63, 63, 63); font-family: arial, helvetica, sans-serif;">&nbsp;</span></p>
-        <p><span style="color: rgb(63, 63, 63);"><strong><span style="color: rgb(0, 0, 0); font-family: arial, helvetica,sans-serif; font-size: 18px;"><br></span></strong></span></p>
-        <p>&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;</p>
-        <p>&nbsp;</p>
-        <p>&nbsp;</p>
-        <p style="text-align: left; line-height: 2em;"><strong><span style="color: rgb(0, 0, 0); font-family: arial, helvetica,sans-serif; font-size: 18px;"></span></strong></p>
-        <p style="text-align: left; line-height: 2em;"><a href="https://www.iamo.de/en/institute/staff/details/herzfeld/" target="_blank">&nbsp;</a></p>
-        <p style="text-align: left; line-height: 2em;">&nbsp;</p>
-        <p style="text-align: left;"><span style="color: rgb(0, 0, 0); font-family: arial, helvetica,sans-serif; font-size: 18px;"><br></span></p>
-        <p>&nbsp;</p>
+---
+_showUpdateTime: false
+toc: false
+comments: false
+---
+
+<article id="events_blog">
+    <p class="post_flex_center_center">
+        <img src="https://emc.hzau.edu.cn/__local/0/E5/70/C584C66A0A479E2F82D2EC3FB85_EAE72A25_BB15.jpg">
+    </p>
+    <h3 class="post_flex_center_center" style="font-size: 24px;">
+        Global Food Security Forum for Young Scientists
+    </h3>
+    <p>
+        The forum aims to bring together scientists, scholars and innovators from
+        different subjects to discuss their research findings and exchange innovative
+        ideas on all aspects of global food security.
+    </p>
+    <p style="font-size:20px;font-weight: 600;">
+        Co-organizers:
+    </p>
+    <div class="post_flex_p">
+        <div style="width: 200px" class="post_flex_center_center">
+            <img style="height: 70px;" src="/img/logo/HZAU.jpeg">
+        </div>
+        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
+            Huazhong Agricultural University (HZAU)
+        </div>
     </div>
-</div>
+    <div class="post_flex_p">
+        <div style="width: 200px" class="post_flex_center_center">
+            <img style="height: 44px;" src="/img/logo/IFPRI.png">
+        </div>
+        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
+            International Food Policy Research Institute (IFPRI)
+        </div>
+    </div>
+    <div class="post_flex_p">
+        <div style="width: 200px" class="post_flex_center_center">
+            <img style="height: 44px;" src="/img/logo/CIMMYT.png">
+        </div>
+        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
+            International Maize and Wheat Improvement Center (CIMMYT)
+        </div>
+    </div>
+    <div class="post_flex_p">
+        <div style="width: 200px" class="post_flex_center_center">
+            <img style="height: 44px;" src="/img/logo/IAMO.png">
+        </div>
+        <div style="font-size: 20px;color: #000000;flex:1;flex-direction:column;"
+        class="post_flex_center_center">
+            <span>
+                Leibniz Institute for Agricultural Development
+            </span>
+            <span>
+                in Transformation Economies (IAMO)
+            </span>
+        </div>
+    </div>
+    <p style="font-size:20px;font-weight: 600;">
+        Dates:
+    </p>
+    <div class="p_item">
+        - 2-3 December 2022
+    </div>
+    <p style="font-size:20px;font-weight: 600;">
+        Venues:
+    </p>
+    <div class="p_item">
+        - Huazhong Agricultural University, Wuhan, China (in-person)
+    </div>
+    <div class="p_item">
+        - ZOOM Meeting (online)
+    </div>
+    <p style="font-size:20px;font-weight: 600;">
+        Topics of Forum 2022:
+    </p>
+    <div class="p_item">
+        - Resilience of global food system and food supply chains
+    </div>
+    <div class="p_item">
+        - Change of dietary patterns and transition of agri-food system
+    </div>
+    <div class="p_item">
+        - Digital and smart food production
+    </div>
+    <div class="p_item">
+        - Sustainable agricultural development and maintenance of environment
+    </div>
+    <p style="font-size:20px;font-weight: 600;">
+        Keynote speakers:
+    </p>
+    <section style="margin: 8px 0;">
+        <div style="margin-bottom: 16px;">
+            <img style="height: 114px;" src="https://emc.hzau.edu.cn/__local/D/86/29/09ECD18BBA2CD7432A3FE1B6DB8_FA94EBF8_14D57.png">
+        </div>
+        <div>
+            Prof. Dr. Zhang Qifa
+        </div>
+        <div>
+            Academician of Chinese Academy of Sciences
+        </div>
+        <div>
+            Professor in Huazhong Agricultural University
+        </div>
+    </section>
+    <section class="introduce_section">
+        <div class="introduce_photo">
+            <img style="height: 114px;" src="https://emc.hzau.edu.cn/__local/C/20/8A/A385B8B984EBD8E309109267136_02F56BC3_39F39.png">
+        </div>
+        <div class="introduce_item">
+            Dr. Bram Govaerts
+        </div>
+        <div class="introduce_item">
+            Winner of Norman Borlaug Field Award for World Food Prize
+        </div>
+        <div class="introduce_item">
+            Director General of CIMMYT
+        </div>
+    </section>
+    <section class="introduce_section">
+        <div class="introduce_photo">
+            <img style="height: 114px;" src="https://emc.hzau.edu.cn/__local/1/22/CE/DB642A863E81FA2A51CD418AF3D_1DB475D5_82D3.png">
+        </div>
+        <div class="introduce_item">
+            Prof. Dr. Thomas Herzfeld
+        </div>
+        <div class="introduce_item">
+            Director of IAMO
+        </div>
+    </section>
+    <section class="introduce_section">
+        <div class="introduce_photo">
+            <img style="height: 114px;" src="https://emc.hzau.edu.cn/__local/F/8D/81/927A708B829A3F1015D4A88FB60_7E851FF7_2DF70.png">
+        </div>
+        <div class="introduce_item">
+            Dr. Derek Headey
+        </div>
+        <div class="introduce_item">
+            Senior Research Fellow at IFPRI
+        </div>
+        <div class="introduce_item">
+            Winner of AAEA Quality of Communication Award
+        </div>
+    </section>
+    <section class="introduce_section">
+        <div class="introduce_photo">
+            <img style="height: 114px;" src="https://emc.hzau.edu.cn/__local/D/3D/3D/2BBD0A9A2A3DCABBE552F715072_CBE17FE5_A214.png">
+        </div>
+        <div class="introduce_item">
+            Prof. Jean-Paul Chavas
+        </div>
+        <div class="introduce_item">
+            Department of Agricultural and Applied Economics, University of Wisconsin-Madison
+        </div>
+        <div class="introduce_item">
+            Fellow of the American Agricultural Economic Association (AAEA)
+        </div>
+    </section>
+</article>

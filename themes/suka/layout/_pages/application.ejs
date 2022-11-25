@@ -1,0 +1,159 @@
+<section id="contact-area">
+    <div class="container">
+        <!--end section heading-->
+        <div class="row">
+            <div class="col-lg-10 col-md-10 offset-lg-1">
+                <div class="contact-box text-center">
+                    <form id="ajax-contact">
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">姓名</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="name" required>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">性别</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="sex">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">学位</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="degree" required>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">出生年月</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="birthday">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">Email</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="email" class="form-control" id="email" required>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">手机号</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="phone">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2 contact-label">
+                                <span>工作单位</span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <input type="text" class="form-control" id="work" placeholder="">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">职称</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="title">
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">职务</span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="duty">
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">教育经历</span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="educationalExperience" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">工作经历</span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="workExperience" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label">主要研究领域与代表性成果</span>
+                            </div>
+                            <div class="col-lg-10 col-md-10">
+                                <textarea class="form-control" id="achievement" rows="5"></textarea>
+                            </div>
+                        </div>
+                        <button type="submit" class="submitBtn" onsubmit="submitFn()">
+                            确 定
+                        </button>
+<!--                        <button type="button" class="cancelBtn">-->
+<!--                            取 消-->
+<!--                        </button>-->
+                        <div id="form-message"></div>
+                    </form>
+                </div>
+                <!--end contact form-->
+            </div>
+        </div>
+    </div>
+</section>
+<script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.0.0/dist/av-min.js"></script>
+<script>
+    window.AV.init({
+        appId: 'n87e56Pd4vy8Mc5lBhD5zcI8-gzGzoHsz',
+        appKey: 'ewwupYEWGyfQU6FioTg6IhCQ',
+        serverURLs: "https://n87e56pd.lc-cn-n1-shared.com"
+    });
+
+    const formItem = document.querySelector('#ajax-contact');
+    formItem && formItem.addEventListener('submit', submitFn);
+
+    function submitFn(e) {
+        e.preventDefault();
+        const list = ['name', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
+        const params = list.reduce((acc, curr) => {
+            const dom = document.querySelector('#' + curr);
+            const value = dom && dom.value;
+            if ([void 0, null].includes(value)) {
+                return acc;
+            }
+            return {
+                ...acc,
+                [curr]: value,
+            }
+        }, {});
+        console.log('params', params);
+        const Forms = window.AV.Object.extend("userApplication");
+        const formObject = new Forms();
+        formObject.save(params).then((result) => {
+            console.log('success', result);
+            formItem.reset();
+            echoMessage('We have received your application and will review and reply.');
+
+        }).catch(err => {
+            console.log('error', err);
+        })
+
+        function echoMessage(msg) {
+            const messageItem = document.querySelector('#form-message');
+            if (messageItem) {
+                messageItem.innerHTML = msg || '';
+            }
+            if (msg) {
+                setTimeout(() => {
+                    echoMessage();
+                }, 4000);
+            }
+        }
+    }
+</script>

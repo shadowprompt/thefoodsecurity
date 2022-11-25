@@ -46,3 +46,7 @@ gulp.task('default', gulp.parallel('build'));
 gulp.task('watch', () => {
     gulp.watch('src/**', gulp.parallel('build'));
 });
+
+gulp.task('watchCss', () => {
+    gulp.watch('src/**/*.css', gulp.parallel('minify-css'));
+});

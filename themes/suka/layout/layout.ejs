@@ -3,7 +3,7 @@
 <html <% if (config.language) { %>lang="<%- config.language %>"<% } %>>
     <%- partial('_partial/head/index') %>
 
-    <body>
+    <body class="body">
             <% if (theme.comment.use === 'facebook') { %>
                 <% if ( (is_post()) ) { %>
                     <!-- Facebook SDK -->

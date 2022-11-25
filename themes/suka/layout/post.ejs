@@ -10,6 +10,9 @@
 <% } else if (page.layout === 'homepage') { %>
     <!-- ## Home Page ## -->
     <%- partial('_pages/homepage') %>
+<% } else if (page.layout === 'application') { %>
+    <!-- ## Application Page ## -->
+    <%- partial('_pages/application') %>
 <% } else { %>
     <!-- ## Post ## -->
     <%- partial('_pages/post') %>

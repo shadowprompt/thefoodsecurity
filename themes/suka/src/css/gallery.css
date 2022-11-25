@@ -44,6 +44,8 @@
 	font-size: 15px;
 	padding: 5px 12px;
 	border-radius: 8px;
+}
+.gallery-item-desc a {
 	cursor: pointer;
 }
 .swiper-slide-prev .gallery-item-desc {

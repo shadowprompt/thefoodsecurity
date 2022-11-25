@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 全球粮食安全科学家联盟
-subtitle: 'Global Food Security Forum for Young Scientists'
+title: Global Food Security Forum for Young Scientists
+subtitle: 全球粮食安全科学家联盟
 description: ''
 keywords:
 author: John Doe
@@ -93,6 +93,11 @@ pagination_dir: page
 include:
 exclude:
 ignore:
+
+search:
+  path: search.json
+  field: post
+  content: true
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
