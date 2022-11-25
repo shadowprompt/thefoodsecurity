@@ -20,16 +20,16 @@
     color: #000000;
     font-family: 微软雅黑, "Microsoft YaHei";
 }
-.p_item {
+#events_blog .p_item {
     margin: 8px 0;
 }
-.introduce_section {
+#events_blog .introduce_section {
     margin: 8px 0;
 }
-.introduce_photo {
+#events_blog .introduce_photo {
     margin-bottom: 16px;
 }
-.introduce_item {
+#events_blog .introduce_item {
     margin: 4px 0;
 }
 #initiative_blog {
@@ -38,4 +38,24 @@
 }
 #initiative_blog .post_flex_center_center{
     text-align: center;
+}
+
+#aboutUs_blog * {
+    color: #000000;
+    font-family: 微软雅黑, "Microsoft YaHei";
+}
+#aboutUs_blog .p_item {
+    margin-left: 24px;
+}
+#aboutUs_blog .p_item .dash {
+    margin-right: 16px;
+}
+#aboutUs_blog .p_intro .duty {
+    font-weight: 600;
+}
+#aboutUs_blog .introduce_photo {
+    margin-bottom: 16px;
+}
+#aboutUs_blog .introduce_item {
+    margin: 4px 0;
 }
