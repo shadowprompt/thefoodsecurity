@@ -2,8 +2,6 @@
 _showUpdateTime: false
 toc: false
 comments: false
-categories:
-- [posts]
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">

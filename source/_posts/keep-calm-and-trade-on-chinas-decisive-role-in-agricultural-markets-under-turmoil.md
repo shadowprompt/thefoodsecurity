@@ -4,9 +4,9 @@ toc: false
 comments: false
 _showCategoryTitle: false
 _showAuthor: false
-title: Keep calm and trade on: China’s decisive role in agricultural markets under turmoil
+title: "Keep calm and trade on: China’s decisive role in agricultural markets under turmoil"
 categories:
-- [posts]
+- [blogs]
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">
