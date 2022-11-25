@@ -3,6 +3,8 @@ _showUpdateTime: false
 toc: false
 comments: false
 _showCategoryTitle: false
+_showCategoryBelong: false
+_showPagination: false
 _showAuthor: false
 title: "Keep calm and trade on: China’s decisive role in agricultural markets under turmoil"
 categories:
@@ -30,7 +32,7 @@ categories:
             events caused by climate change. The Chinese government has turned to a
             range of measures to overcome these challenges, including building up immense
             strategic reserves. In
-            <a href="/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_45_EN.pdf"
+            <a href="https://www.iamo.de/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_45_EN.pdf"
             target="_blank">
                 IAMO Policy Brief 45
             </a>

@@ -40,7 +40,7 @@
 <% } %>
 </p>
 <p class="post-footer-info mb-0 pt-2">
-<% if (page.categories && page.categories.length) { %>
+<% if (page.categories && page.categories.length && page._showCategoryBelong) { %>
 <span class="post-categories-list mt-2">
 <% page.categories.forEach(function(category, index) { %>
 <a class="post-categories-list-item" href='<%= url_for(category.path) %>'><%= category.name %></a>

@@ -3,6 +3,8 @@ _showUpdateTime: false
 toc: false
 comments: false
 _showCategoryTitle: false
+_showCategoryBelong: false
+_showPagination: false
 _showAuthor: false
 title: Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis
 categories:
@@ -25,7 +27,7 @@ categories:
             commodities such as grains, vegetable oils and fertilizers. This could
             destabilize food security, particularly in import-dependent countries in
             the Middle East and North Africa (MENA region). In the latest
-            <a href="/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_44_ENG.pdf">
+            <a href="https://www.iamo.de/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_45_EN.pdf">
                 IAMO Policy Brief 44
             </a>
             , Thomas Glauben, Miranda Svanidze, Linde Götz, Sören Prehn, Tinoush Jamali

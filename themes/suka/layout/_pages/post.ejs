@@ -26,8 +26,9 @@
                     </article>
                     <%- partial('_partial/post/footer-info') %>
                 </div>
-                <%- partial('_partial/post/footer-pagination') %>
-
+                <% if (page._showPagination) { %>
+                    <%- partial('_partial/post/footer-pagination') %>
+                <% } %>
                 <% if (page.comments !== false) { %>
                     <!-- # Comment # -->
                     <% if (theme.comment.use) { %>
