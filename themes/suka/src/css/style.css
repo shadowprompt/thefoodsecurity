@@ -1519,40 +1519,26 @@ a.timeline-tile-title span:hover {
     position: relative;
     display: inline-block;
 }
-
-@media screen and (min-width: 481px) {
-    .h_nav_tree {
-        font-size: 14px;
-    }
-    .h_nav_tree .first>li {
-        padding: 0 8px;
-    }
-}
-@media screen and (min-width: 721px) {
-    .h_nav_tree .first>li {
-        padding: 0 20px;
-    }
-}
 .h_nav_tree .first>li.active:after {
     content: ' ';
     position: absolute;
     width: 90%;
     height: 1px;
-    border-bottom: 3px solid #d61317;
+    border-bottom: 2px solid #d61317;
     left: 5%;
-    bottom: -3px;
+    bottom: -2px;
 }
 .h_nav_tree .first>li.active:before {
     content: '';
     width: 0;
     height: 0;
-    border-width: 0 8px 8px;
+    border-width: 0 4px 4px;
     border-style: solid;
     border-color: transparent transparent #d61317;
     position: absolute;
     left: 50%;
     bottom: 0;
-    margin-left: -8px;
+    transform: translateX(-50%);
 }
 .first>li {
     border-radius: 2px;
@@ -1563,21 +1549,21 @@ a.timeline-tile-title span:hover {
     position: absolute;
     width: 90%;
     height: 1px;
-    border-bottom: 3px solid #d61317;
+    border-bottom: 2px solid #d61317;
     left: 5%;
-    bottom: -3px;
+    bottom: -2px;
 }
 .first>li:hover:before {
     content: '';
     width: 0;
     height: 0;
-    border-width: 0 8px 8px;
+    border-width: 0 4px 4px;
     border-style: solid;
     border-color: transparent transparent #d61317;
     position: absolute;
     left: 50%;
     bottom: 0;
-    margin-left: -8px;
+    transform: translateX(-50%);
 }
 .h_nav_tree ul.second {
     width: 90%;
@@ -1674,6 +1660,33 @@ a.timeline-tile-title span:hover {
     display: none;
 }
 
+@media screen and (min-width: 481px) {
+    .h_nav_tree {
+        font-size: 14px;
+    }
+    .h_nav_tree .first>li {
+        padding: 0 8px;
+    }
+    .h_nav_tree .first>li.active:after {
+        border-bottom: 3px solid #d61317;
+        bottom: -3px;
+    }
+    .h_nav_tree .first>li.active:before {
+        border-width: 0 8px 8px;
+    }
+    .first>li:hover:after {
+        border-bottom: 3px solid #d61317;
+        bottom: -3px;
+    }
+    .first>li:hover:before {
+        border-width: 0 8px 8px;
+    }
+}
+@media screen and (min-width: 721px) {
+    .h_nav_tree .first>li {
+        padding: 0 20px;
+    }
+}
 @media screen and (min-width: 961px) {
     .h_nav_tree {
         font-size: 16px;
