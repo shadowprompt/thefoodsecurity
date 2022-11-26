@@ -12,10 +12,10 @@ categories:
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">
-    <h1>
+    <h2>
         Keep calm and trade on: China’s decisive role in agricultural markets
         under turmoil
-    </h1>
+    </h2>
     <p>Source: IAMO Press</p>
     <p class="subheader">
         IAMO Policy Brief 45 looks at how China is ensuring its domestic food
