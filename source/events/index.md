@@ -21,16 +21,16 @@ comments: false
         Co-organizers:
     </p>
     <div class="p_item">
-        Huazhong Agricultural University (HZAU)
+        - Huazhong Agricultural University (HZAU)
     </div>
     <div class="p_item">
-        International Food Policy Research Institute (IFPRI)
+        - International Food Policy Research Institute (IFPRI)
     </div>
     <div class="p_item">
-        International Maize and Wheat Improvement Center (CIMMYT)
+        - International Maize and Wheat Improvement Center (CIMMYT)
     </div>
     <div class="p_item">
-        Leibniz Institute for Agricultural Development in Transformation Economies (IAMO)
+        - Leibniz Institute for Agricultural Development in Transformation Economies (IAMO)
     </div>
     <p style="font-size:20px;font-weight: 600;">
         Dates:
