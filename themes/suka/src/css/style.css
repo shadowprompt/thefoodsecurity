@@ -1512,7 +1512,7 @@ a.timeline-tile-title span:hover {
 .h_nav_tree {
     /*display: flex;*/
     /*justify-content: center;*/
-    font-size: 14px;
+    font-size: 12px;
 }
 
 .h_nav_tree ul {
@@ -1545,15 +1545,9 @@ a.timeline-tile-title span:hover {
     position: relative;
 }
 
-@media screen and (min-width: 721px) {
-    .h_nav_tree .first>li {
-        height: 42px;
-        list-style: none;
-        text-align: center;
-        padding: 0 2px;
-        line-height: 48px;
-        flex: 1;
-        position: relative;
+@media screen and (min-width: 481px) {
+    .h_nav_tree {
+        font-size: 14px;
     }
 }
 .h_nav_tree .first>li.active:after {
