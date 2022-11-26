@@ -20,43 +20,17 @@ comments: false
     <p style="font-size:20px;font-weight: 600;">
         Co-organizers:
     </p>
-    <div class="post_flex_p">
-        <div style="width: 200px" class="post_flex_center_center">
-            <img style="height: 70px;" src="/img/logo/HZAU.jpeg">
-        </div>
-        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
-            Huazhong Agricultural University (HZAU)
-        </div>
+    <div class="p_item">
+        Huazhong Agricultural University (HZAU)
     </div>
-    <div class="post_flex_p">
-        <div style="width: 200px" class="post_flex_center_center">
-            <img style="height: 44px;" src="/img/logo/IFPRI.png">
-        </div>
-        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
-            International Food Policy Research Institute (IFPRI)
-        </div>
+    <div class="p_item">
+        International Food Policy Research Institute (IFPRI)
     </div>
-    <div class="post_flex_p">
-        <div style="width: 200px" class="post_flex_center_center">
-            <img style="height: 44px;" src="/img/logo/CIMMYT.png">
-        </div>
-        <div style="font-size: 20px;color: #000000;flex:1;" class="post_flex_center_center">
-            International Maize and Wheat Improvement Center (CIMMYT)
-        </div>
+    <div class="p_item">
+        International Maize and Wheat Improvement Center (CIMMYT)
     </div>
-    <div class="post_flex_p">
-        <div style="width: 200px" class="post_flex_center_center">
-            <img style="height: 44px;" src="/img/logo/IAMO.png">
-        </div>
-        <div style="font-size: 20px;color: #000000;flex:1;flex-direction:column;"
-        class="post_flex_center_center">
-            <span>
-                Leibniz Institute for Agricultural Development
-            </span>
-            <span>
-                in Transformation Economies (IAMO)
-            </span>
-        </div>
+    <div class="p_item">
+        Leibniz Institute for Agricultural Development in Transformation Economies (IAMO)
     </div>
     <p style="font-size:20px;font-weight: 600;">
         Dates:
