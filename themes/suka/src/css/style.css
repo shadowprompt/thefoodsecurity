@@ -1547,6 +1547,13 @@ a.timeline-tile-title span:hover {
         padding: 0 8px;
     }
 }
+@media screen and (min-width: 721px) {
+    /* 大屏时直接flex布局 忽略之前的inline-block和padding设置*/
+    .h_nav_tree .first {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
 .h_nav_tree .first>li.active:after {
     content: ' ';
     position: absolute;
