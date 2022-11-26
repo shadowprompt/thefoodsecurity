@@ -6,7 +6,7 @@ comments: false
 ---
 
 <article id="aboutUs_blog">
-    <h3 class="post_flex_center_center" style="font-size: 24px;">
+    <h3 class="post_flex_center_center">
         Global Food Security Association for Young Scientists
     </h3>
     <p>

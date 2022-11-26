@@ -5,9 +5,9 @@ toc: false
 comments: false
 ---
 <div id="initiative_blog">
-    <h2 class="post_flex_center_center">
+    <h3 class="post_flex_center_center">
         CONSTITUTION OF GLOBAL FOOD SECURITY ASSOCIATION FOR YOUNG SCIENTISTS
-    </h2>
+    </h3>
     <p class="post_flex_center_center">
         (Draft for discussion)
     </p>

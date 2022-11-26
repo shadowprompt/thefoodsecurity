@@ -12,10 +12,10 @@ categories:
 ---
 
 <div class="col-md-12 ce-bodytext ce-intext">
-    <h2>
+    <h3>
         Global trade not self-sufficiency is key to overcoming food shortages
         in times of war and crisis
-    </h2>
+    </h3>
     <p>Source: IAMO Press</p>
     <p class="subheader">
         IAMO Policy Brief 44 examines the effects of the war in Ukraine on global
