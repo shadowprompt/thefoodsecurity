@@ -1539,10 +1539,22 @@ a.timeline-tile-title span:hover {
     height: 42px;
     list-style: none;
     text-align: center;
-    padding: 0 8px;
+    padding: 0 2px;
     line-height: 48px;
     flex: 1;
     position: relative;
+}
+
+@media screen and (min-width: 721px) {
+    .h_nav_tree .first>li {
+        height: 42px;
+        list-style: none;
+        text-align: center;
+        padding: 0 2px;
+        line-height: 48px;
+        flex: 1;
+        position: relative;
+    }
 }
 .h_nav_tree .first>li.active:after {
     content: ' ';
