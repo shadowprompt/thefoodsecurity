@@ -58,9 +58,6 @@ comments: false
         Prof. Qing Ping (Huazhong Agricultural University)
     </div>
     <div class="p_item">
-        Dr. Jingyuan Xia (Food and Agriculture Organization of the United Nations)
-    </div>
-    <div class="p_item">
         Dr. Bram Govaerts (International Maize and Wheat Improvement Center)
     </div>
     <div class="p_item">
