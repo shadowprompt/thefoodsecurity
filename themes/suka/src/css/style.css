@@ -42,7 +42,7 @@ html .btn:focus {
 }
 body.body {
     padding-left: calc(100vw - 100%);
-    /*font-family: 微软雅黑, "Microsoft YaHei";*/
+    font-family: 微软雅黑, "Microsoft YaHei",PingFangSC-Regular, Arial,Helvetica,sans-serif,"宋体"
 }
 * {
     box-sizing: border-box;
@@ -318,6 +318,10 @@ header .divider {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
+}
+
+.main-container .card-title{
+    font-size: 24px;
 }
 
 @media screen and (min-width: 481px) {
@@ -1673,7 +1677,7 @@ a.timeline-tile-title span:hover {
     font-size: 12px;
 }
 .h_alliance_logo {
-    height: 40px;
+    height: 30px;
     width: auto;
     margin: 0 2px;
 }
@@ -1689,7 +1693,6 @@ a.timeline-tile-title span:hover {
         height: 48px;
     }
     .h_logo{
-        height: 50px;
         margin-right: 12px;
     }
     .h_title {
@@ -1704,10 +1707,9 @@ a.timeline-tile-title span:hover {
 }
 @media screen and (min-width: 1290px) {
     .h_nav_tree{
-        font-size: 20px;
+        font-size: 16px;
     }
     .h_logo{
-        height: 50px;
         margin-right: 12px;
     }
     .h_title {
