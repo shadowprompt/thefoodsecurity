@@ -24,7 +24,7 @@
 .contact-box .contact-label.fieldRequired:after {
     content: '*';
     top: 0px;
-    right: 3px;
+    right: -12px;
     position: absolute;
     color: #ff0000;
 }
