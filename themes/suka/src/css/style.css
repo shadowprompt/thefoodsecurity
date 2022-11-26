@@ -250,6 +250,13 @@ header a {
     font-weight: 600;
 }
 
+header a:hover,
+header a:focus,
+header a:visited {
+    text-decoration: none;
+    color: #50596c;
+}
+
 header .divider {
     margin-left: auto;
     margin-right: auto;
