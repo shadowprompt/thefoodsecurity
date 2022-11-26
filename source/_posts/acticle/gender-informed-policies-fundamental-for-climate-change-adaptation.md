@@ -28,7 +28,7 @@ categories:
         </div>
         <div>
             <span class="p_bold">
-                Source Site
+                Source
             </span>
             <span>
                 : <a target="_blank" href="https://www.cimmyt.org/news/gender-informed-policies-fundamental-for-climate-change-adaptation/">

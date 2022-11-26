@@ -23,12 +23,12 @@ categories:
                 Author
             </span>
             <span>
-                : IAMO(Policy Brief 45 looks at how China is ensuring its domestic food security in the face of recent crises)
+                : IAMO
             </span>
         </div>
         <div>
             <span class="p_bold">
-                Source Site
+                Source
             </span>
             <span>
                 : <a target="_blank" href="https://www.iamo.de/en/press/press-releases/article/keep-calm-and-trade-on-chinas-decisive-role-in-agricultural-markets-under-turmoil/">

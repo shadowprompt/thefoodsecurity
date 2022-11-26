@@ -28,7 +28,7 @@ categories:
         </div>
         <div>
             <span class="p_bold">
-                Source Site
+                Source
             </span>
             <span>
                 : <a target="_blank" href="https://www.desmoinesregister.com/story/opinion/columnists/2022/09/25/global-food-crisis-world-cannot-ignore/8073369001/">

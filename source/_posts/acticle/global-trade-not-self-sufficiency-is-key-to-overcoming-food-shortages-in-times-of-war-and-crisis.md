@@ -29,7 +29,7 @@ categories:
         </div>
         <div>
             <span class="p_bold">
-                Source Site
+                Source
             </span>
             <span>
                 : <a target="_blank" href="https://www.iamo.de/en/press/press-releases/article/global-trade-not-self-sufficiency-is-key-to-overcoming-food-shortages-in-times-of-war-and-crisis/">

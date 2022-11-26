@@ -21,12 +21,12 @@ categories:
                 Author
             </span>
             <span>
-                : REBIKA LAISHRAM(IFPRI Blog)
+                : REBIKA LAISHRAM
             </span>
         </div>
         <div>
             <span class="p_bold">
-                Source Site
+                Source
             </span>
             <span>
                 : <a target="_blank" href="https://www.ifpri.org/blog/high-level-policy-forum-encouraging-continued-food-systems-transformation-asean-region-wake">
