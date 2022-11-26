@@ -44,6 +44,12 @@ body.body {
     padding-left: calc(100vw - 100%);
     font-family: 微软雅黑, "Microsoft YaHei",PingFangSC-Regular, Arial,Helvetica,sans-serif,"宋体"
 }
+body.body a,
+body.body a:hover,
+body.body a:visited,
+body.body a:focus{
+    text-decoration: none;
+}
 * {
     box-sizing: border-box;
 }
@@ -244,13 +250,6 @@ header a {
     font-weight: 600;
 }
 
-header a:hover,
-header a:focus,
-header a:visited {
-    text-decoration: none;
-    color: #50596c;
-}
-
 header .divider {
     margin-left: auto;
     margin-right: auto;
@@ -318,10 +317,6 @@ header .divider {
     width: 100%;
     margin-left: auto;
     margin-right: auto;
-}
-
-.main-container .card-title{
-    font-size: 24px;
 }
 
 @media screen and (min-width: 481px) {
@@ -400,13 +395,10 @@ header .divider {
     }
 }
 
-.post-entry a.card-title,
-.post-entry a.card-title:hover,
-.post-entry a.card-title:visited,
-.post-entry a.card-title:focus {
-    color: #50596c;
+.post-entry a.card-title {
+    color: #000000;
     opacity: 1;
-    text-decoration: none;
+    font-size: 20px;
 }
 
 .post-entry .post-entry-info {
@@ -574,18 +566,10 @@ a.post-tags-list-item {
     text-align: center;
 }
 
-a.post-tags-list-item:hover,
-a.post-tags-list-item:visited {
-    color: #535d72;
-    text-decoration: none
-}
 
-a.post-categories-list-item,
-a.post-categories-list-item:hover,
-a.post-categories-list-item:visited {
+a.post-categories-list-item{
     background-color: #c2c2c2;
     color: #333 !important;
-    text-decoration: none
 }
 
 a.category-link {
@@ -1168,9 +1152,7 @@ footer {
     color: #999;
 }
 
-.footer-copyright-a,
-.footer-copyright-a:visited {
-    text-decoration: none;
+.footer-copyright-a {
     color: #999;
 }
 
@@ -1184,8 +1166,7 @@ footer {
     color: #999;
 }
 
-.footer-develop-a,
-.footer-develop-a:visited {
+.footer-develop-a {
     color: #6b6b6b;
 }
 
@@ -1446,13 +1427,6 @@ a.timeline-tile-title span:hover {
     float: left;
 }
 
-.link-item a,
-.link-item a:hover,
-.link-item a:focus,
-.link-item a:visited {
-    text-decoration: none;
-}
-
 .link-item .link-img img {
     vertical-align: middle;
     height: 3.8rem;
@@ -1549,7 +1523,7 @@ a.timeline-tile-title span:hover {
 }
 @media screen and (min-width: 721px) {
     .h_nav_tree .first>li {
-        padding: 0 24px;
+        padding: 0 20px;
     }
 }
 .h_nav_tree .first>li.active:after {
