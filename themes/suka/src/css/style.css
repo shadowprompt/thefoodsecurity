@@ -1655,6 +1655,23 @@ a.timeline-tile-title span:hover {
     height: 30px;
     width: auto;
     margin: 0 2px;
+    position: relative;
+}
+.h_alliance_area .goto_logo:not(:first-child):before {
+    content: ' ';
+    position: absolute;
+    left: -2px;
+    top: 15%;
+    height: 75%;
+    border-left: 1px solid #c2c2c2;
+}
+.goto_logo {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+}
+.goto_logo + .goto_logo{
+    margin-left: 4px;
 }
 .h_alliance_area {
     display: none;
@@ -1704,7 +1721,7 @@ a.timeline-tile-title span:hover {
         display: none;
     }
     .h_alliance_area {
-        display: block;
+        display: flex;
     }
 }
 @media screen and (min-width: 1290px) {
