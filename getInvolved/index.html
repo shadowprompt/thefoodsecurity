@@ -139,7 +139,7 @@
     <meta name="mobile-web-app-capable" content="yes"><meta name="application-name" content="Global Food Security Forum for Young Scientists"><meta name="msapplication-starturl" content="https://www.thefoodsecurity.org"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="Global Food Security Forum for Young Scientists"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
     <!-- ### The Open Graph & Twitter Card Protocol ### -->
-    <meta property="og:title" content="Get Involved | Global Food Security Forum for Young Scientists"><meta property="og:site_name" content="Global Food Security Forum for Young Scientists"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/getInvolved/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Global Food Security Forum for Young Scientists"><meta property="article:published_time" content="2022-11-26T11:46:25.927Z"><meta property="article:modified_time" content="2022-11-26T11:46:25.927Z"><meta property="og:updated_time" content="2022-11-26T11:46:25.927Z">
+    <meta property="og:title" content="Get Involved | Global Food Security Forum for Young Scientists"><meta property="og:site_name" content="Global Food Security Forum for Young Scientists"><meta property="og:type" content="website"><meta property="og:url" content="https://www.thefoodsecurity.org/getInvolved/"><meta property="og:locale" content="en"><meta name="description" content="John Doe - Global Food Security Forum for Young Scientists"><meta property="article:published_time" content="2022-11-26T12:19:05.400Z"><meta property="article:modified_time" content="2022-11-26T12:19:05.400Z"><meta property="og:updated_time" content="2022-11-26T12:19:05.400Z">
 
     
 
@@ -264,7 +264,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="familyName" required>
+                                <input type="text" class="form-control" id="familyName">
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
@@ -274,7 +274,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="givenName" required>
+                                <input type="text" class="form-control" id="givenName">
                             </div>
                         </div>
                         <div class="form-group row">
@@ -286,7 +286,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="chineseName" required>
+                                <input type="text" class="form-control" id="chineseName">
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label">
@@ -314,7 +314,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="degree" required>
+                                <input type="text" class="form-control" id="degree">
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
@@ -327,7 +327,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="birthday" required>
+                                <input type="text" class="form-control" id="birthday">
                             </div>
                         </div>
                         <div class="form-group row">
@@ -342,7 +342,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="email" class="form-control" id="email" required>
+                                <input type="email" class="form-control" id="email">
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
@@ -355,7 +355,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="phone" required>
+                                <input type="text" class="form-control" id="phone">
                             </div>
                         </div>
                         <div class="form-group row">
@@ -368,7 +368,7 @@
                                 </span>
                             </span>
                             <div class="col-lg-10 col-md-10">
-                                <input type="text" class="form-control" id="work" placeholder="" required>
+                                <input type="text" class="form-control" id="work" placeholder="">
                             </div>
                         </div>
                         <div class="form-group row">
@@ -441,7 +441,7 @@
                                 </span>
                             </div>
                             <div class="col-lg-10 col-md-10">
-                                <textarea class="form-control" id="achievement" rows="5" required></textarea>
+                                <textarea class="form-control" id="achievement" rows="5"></textarea>
                             </div>
                         </div>
                         <button type="submit" class="submitBtn" onsubmit="submitFn()">
@@ -471,8 +471,17 @@
             e.preventDefault();
             const list = ['familyName', 'givenName', 'chineseName', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
             const params = list.reduce((acc, curr) => {
-                const dom = document.querySelector('#' + curr);
-                const value = dom && dom.value;
+                const valueDom = document.querySelector('#' + curr);
+                if (!valueDom) {
+                   return acc;
+                }
+                let value = valueDom && valueDom.value;
+                // for required check
+                const trimValue = (value || '').trim();
+                const fieldRequiredDom = valueDom.parentElement && valueDom.parentElement.previousElementSibling && valueDom.parentElement.previousElementSibling.querySelector('.fieldRequired');
+                if (fieldRequiredDom && !trimValue) {
+                    value = -1; // is required but empty
+                }
                 if ([void 0, null].includes(value)) {
                     return acc;
                 }
@@ -481,6 +490,26 @@
                     [curr]: value,
                 }
             }, {});
+
+            const emptyList = Object.keys(params).filter(item => {
+                const value = params[item];
+                if (value !== -1) {
+                    return false;
+                } else if(['familyName', 'givenName', 'chineseName'].includes(item)){
+                    // English name is filled or chineseName is filled, OK!
+                    if ((params['familyName'] !== -1 && params['givenName'] !== -1) || params['chineseName'] !== -1 ) {
+                        return false
+                    }
+                }
+                return true;
+            });
+            console.log('eee', params, emptyList);
+
+            if (emptyList.length > 0) {
+                echoMessage('Please fill out required field(s)', true);
+                return;
+            }
+
             const Forms = window.AV.Object.extend("involvedMembers");
             const formObject = new Forms();
             formObject.save(params).then((result) => {
@@ -492,10 +521,10 @@
                 console.log('error', err);
             })
 
-            function echoMessage(msg) {
+            function echoMessage(msg, isError) {
                 const messageItem = document.querySelector('#form-message');
                 if (messageItem) {
-                    messageItem.innerHTML = msg || '';
+                    messageItem.innerHTML = isError ? `<span style="color: #ff0000">${msg}</span>` : msg || '';
                 }
                 if (msg) {
                     setTimeout(() => {
