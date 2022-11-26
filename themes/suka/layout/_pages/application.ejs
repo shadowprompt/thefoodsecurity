@@ -8,15 +8,34 @@
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
                                     <span class="primaryItem">
-                                        Name
-                                    </span>
-                                    <span>
-                                        姓名
+                                        Family name
                                     </span>
                                 </span>
                             </div>
                             <div class="col-lg-4 col-md-4">
-                                <input type="text" class="form-control" id="name" required>
+                                <input type="text" class="form-control" id="familyName" required>
+                            </div>
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span class="primaryItem">
+                                        Given name
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="givenName" required>
+                            </div>
+                        </div>
+                        <div class="form-group row">
+                            <div class="col-lg-2 col-md-2">
+                                <span class="contact-label fieldRequired">
+                                    <span>
+                                        姓名(中文)
+                                    </span>
+                                </span>
+                            </div>
+                            <div class="col-lg-4 col-md-4">
+                                <input type="text" class="form-control" id="chineseName" required>
                             </div>
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label">
@@ -36,10 +55,10 @@
                             <div class="col-lg-2 col-md-2">
                                 <span class="contact-label fieldRequired">
                                     <span class="primaryItem">
-                                        Bachelor of Science
+                                        Highest academic degree
                                     </span>
                                     <span>
-                                        学位
+                                        最高学位
                                     </span>
                                 </span>
                             </div>
@@ -199,7 +218,7 @@
 
         function submitFn(e) {
             e.preventDefault();
-            const list = ['name', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
+            const list = ['familyName', 'givenName', 'chineseName', 'sex', 'degree', 'birthday', 'email', 'phone', 'work', 'title', 'duty', 'educationalExperience', 'workExperience', 'achievement'];
             const params = list.reduce((acc, curr) => {
                 const dom = document.querySelector('#' + curr);
                 const value = dom && dom.value;
