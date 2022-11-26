@@ -1,4 +1,5 @@
 ---
+date: 2022-11-26 18:16:00
 _showUpdateTime: false
 toc: false
 comments: false
@@ -6,34 +7,48 @@ _showCategoryTitle: false
 _showCategoryBelong: false
 _showPagination: false
 _showAuthor: false
-title: Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis
+title: "Global trade not self-sufficiency is key to overcoming food shortages in times of war and crisis"
 categories:
 - [posts]
 ---
 
-<div class="col-md-12 ce-bodytext ce-intext">
+<article id="events_blog">
     <h3>
         Global trade not self-sufficiency is key to overcoming food shortages
         in times of war and crisis
     </h3>
-    <p>Source: IAMO Press</p>
-    <p class="subheader">
-        IAMO Policy Brief 44 examines the effects of the war in Ukraine on global
-        food markets
-    </p>
+    <div>IAMO Policy Brief 45 looks at how China is ensuring its domestic food security in the face of recent crises</div>
+    <section class="article_description">
+        <div>
+            <span class="p_bold">
+                Author
+            </span>
+            <span>
+                : IAMO
+            </span>
+        </div>
+        <div>
+            <span class="p_bold">
+                Source Site
+            </span>
+            <span>
+                : <a target="_blank" href="https://www.iamo.de/en/press/press-releases/article/global-trade-not-self-sufficiency-is-key-to-overcoming-food-shortages-in-times-of-war-and-crisis/">
+                    https://www.iamo.de/en/press/press-releases/article/global-trade-not-self-sufficiency-is-key-to-overcoming-food-shortages-in-times-of-war-and-crisis/
+                </a>
+            </span>
+        </div>
+    </section>
     <p>
-        <strong>
-            Russia’s invasion of Ukraine has sent prices soaring for agricultural
+        Russia’s invasion of Ukraine has sent prices soaring for agricultural
             commodities such as grains, vegetable oils and fertilizers. This could
             destabilize food security, particularly in import-dependent countries in
             the Middle East and North Africa (MENA region). In the latest
-            <a href="https://www.iamo.de/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_45_EN.pdf">
+            <a href="https://www.iamo.de/fileadmin/user_upload/Bilder_und_Dokumente/05-publikationen/IAMO_Policy_Brief/IAMO_Policy_Brief_44_ENG.pdf">
                 IAMO Policy Brief 44
             </a>
             , Thomas Glauben, Miranda Svanidze, Linde Götz, Sören Prehn, Tinoush Jamali
             Jaghdani, Ivan Duric and Lena Kuhn assess the current situation on the
             global wheat market.
-        </strong>
     </p>
     <p>
         The war in Ukraine has aggravated existing tensions on global food markets
@@ -79,4 +94,4 @@ categories:
         trade’ and contributes significantly to combating hunger in the Global
         South,” says IAMO Director Thomas Glauben.
     </p>
-</div>
+</article>

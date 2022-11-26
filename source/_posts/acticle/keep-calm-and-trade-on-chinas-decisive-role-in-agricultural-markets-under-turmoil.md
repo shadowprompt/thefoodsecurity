@@ -1,4 +1,5 @@
 ---
+date: 2022-11-26 18:17:00
 _showUpdateTime: false
 toc: false
 comments: false
@@ -11,19 +12,33 @@ categories:
 - [posts]
 ---
 
-<div class="col-md-12 ce-bodytext ce-intext">
+<article id="events_blog">
     <h3>
         Keep calm and trade on: China’s decisive role in agricultural markets
         under turmoil
     </h3>
-    <p>Source: IAMO Press</p>
-    <p class="subheader">
-        IAMO Policy Brief 45 looks at how China is ensuring its domestic food
-        security in the face of recent crises
-    </p>
+    <section class="article_description">
+        <div>
+            <span class="p_bold">
+                Author
+            </span>
+            <span>
+                : IAMO(Policy Brief 45 looks at how China is ensuring its domestic food security in the face of recent crises)
+            </span>
+        </div>
+        <div>
+            <span class="p_bold">
+                Source Site
+            </span>
+            <span>
+                : <a target="_blank" href="https://www.iamo.de/en/press/press-releases/article/keep-calm-and-trade-on-chinas-decisive-role-in-agricultural-markets-under-turmoil/">
+                    https://www.iamo.de/en/press/press-releases/article/keep-calm-and-trade-on-chinas-decisive-role-in-agricultural-markets-under-turmoil/
+                </a>
+            </span>
+        </div>
+    </section>
     <p>
-        <strong>
-            China is the world’s largest consumer and importer of agricultural goods.
+        China is the world’s largest consumer and importer of agricultural goods.
             As a result, its trade strategies influence international markets and affect
             consumers worldwide. However, rising domestic demand for food and limited
             land and water resources are posing a particular challenge to China’s food
@@ -38,7 +53,6 @@ categories:
             </a>
             Lena Kuhn, Tinoush Jamali Jaghdani, Sören Prehn, Zhanli Sun and Thomas
             Glauben take a look at these developments and how they affect global markets.
-        </strong>
     </p>
     <p>
         As the world’s largest consumer and importer of agricultural goods, China
@@ -107,4 +121,4 @@ categories:
         of crisis, to ensure their populations have sufficient access to nutritious
         foods.”
     </p>
-</div>
+</article>
