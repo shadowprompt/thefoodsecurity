@@ -1,7 +1,7 @@
 [
   {
     "id": 106906749,
-    "slug": "fqo4v943dzmnktco",
+    "slug": "events",
     "title": "Events",
     "book_id": 35160381,
     "book": {
@@ -16,8 +16,8 @@
       "items_count": 2,
       "likes_count": 0,
       "watches_count": 0,
-      "content_updated_at": "2022-11-26T13:39:55.290Z",
-      "updated_at": "2022-11-26T13:39:55.000Z",
+      "content_updated_at": "2022-11-27T02:54:44.898Z",
+      "updated_at": "2022-11-27T02:54:45.000Z",
       "created_at": "2022-11-21T23:12:45.000Z",
       "namespace": "guobacongcong/thefoodsecurity",
       "user": {
@@ -68,13 +68,13 @@
     "content_updated_at": "2022-11-26T13:39:55.000Z",
     "deleted_at": null,
     "created_at": "2022-11-22T01:07:05.000Z",
-    "updated_at": "2022-11-26T13:39:55.000Z",
+    "updated_at": "2022-11-27T02:57:52.000Z",
     "published_at": "2022-11-26T13:39:55.000Z",
     "first_published_at": "2022-11-22T01:07:31.111Z",
     "word_count": 194,
     "cover": "https://cdn.nlark.com/yuque/0/2022/png/34471347/1669469804702-974f0aeb-a211-432a-a7ed-569c9ae79c19.png",
     "description": "Global Food Security Forum for Young ScientistsThe forum aims to bring together scientists, scholars and innovators from different subjects to disc...",
-    "custom_description": null,
+    "custom_description": "Global Food Security Forum for Young ScientistsThe forum aims to bring together scientists, scholars and innovators from different subjects to disc...",
     "hits": 0,
     "_serializer": "v2.doc_detail"
   },
@@ -95,8 +95,8 @@
       "items_count": 2,
       "likes_count": 0,
       "watches_count": 0,
-      "content_updated_at": "2022-11-26T13:39:55.290Z",
-      "updated_at": "2022-11-26T13:39:55.000Z",
+      "content_updated_at": "2022-11-27T02:54:44.898Z",
+      "updated_at": "2022-11-27T02:54:45.000Z",
       "created_at": "2022-11-21T23:12:45.000Z",
       "namespace": "guobacongcong/thefoodsecurity",
       "user": {
