@@ -1635,7 +1635,7 @@ a.timeline-tile-title span:hover {
     text-align: left;
 }
 .h_logo{
-    height: 60px;
+    height: 80px;
     margin-right: 8px;
 }
 .h_title {
@@ -1646,7 +1646,7 @@ a.timeline-tile-title span:hover {
     font-size: 12px;
 }
 .h_alliance_logo {
-    height: 40px;
+    height: 36px;
     width: auto;
     margin: 0 2px;
     position: relative;
