@@ -10,7 +10,21 @@ layout: homepage
             <div class="swiper-slide init">
                 <div class="inner">
                     <a href="/events/">
-                        <figure><img src="https://wp-img.daozhao.com.cn/thefoodsecurity/banner.jpeg"></figure>
+                        <figure><img src="https://wp-img.daozhao.com.cn/thefoodsecurity/Carousel_event2250.png"></figure>
+                    </a>
+                </div>
+            </div>
+            <div class="swiper-slide init">
+                <div class="inner">
+                    <a href="/events/">
+                        <figure><img src="https://wp-img.daozhao.com.cn/thefoodsecurity/Carousel_food1710.png"></figure>
+                    </a>
+                </div>
+            </div>
+            <div class="swiper-slide init">
+                <div class="inner">
+                    <a href="/events/">
+                        <figure><img src="https://wp-img.daozhao.com.cn/thefoodsecurity/Carousel_rice1995.png"></figure>
                     </a>
                 </div>
             </div>
