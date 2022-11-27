@@ -90,7 +90,7 @@ comments: false
             Presidium:
         </span>
         <span class="people">
-            Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Sun
+            Prof. Xiaoyun Li, Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Su
         </span>
     </div>
     <div class="p_intro">
