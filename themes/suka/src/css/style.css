@@ -42,7 +42,7 @@ html .btn:focus {
 }
 body.body {
     padding-left: calc(100vw - 100%);
-    font-family: 微软雅黑, "Microsoft YaHei",PingFangSC-Regular, Arial,Helvetica,sans-serif,"宋体"
+    font-family: "Calibre Web Bold",arial,sans-serif,微软雅黑, "Microsoft YaHei",PingFangSC-Regular, Arial,Helvetica,"宋体"
 }
 body.body a,
 body.body a:hover,
