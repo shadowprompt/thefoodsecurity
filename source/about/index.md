@@ -32,7 +32,7 @@ comments: false
         encourage young scientists to communicate, exchange ideas, and give voice
         to the world.
     </p>
-    <div style="font-size:20px;font-weight: 600;">
+    <div style="font-weight: 600;">
         Funder Institutes
     </div>
     <div class="p_item">
@@ -48,7 +48,7 @@ comments: false
         <span class="dash">-</span> Leibniz Institute for Agricultural Development in Transformation Economies
         (IAMO)
     </div>
-    <div style="font-size:20px;font-weight: 600;">
+    <div style="font-weight: 600;">
         Advisory Board
     </div>
     <div class="p_item">
@@ -109,5 +109,10 @@ comments: false
         <span class="people">
             Prof. Hang Xiong
         </span>
+    </div>
+    <div class="p_intro">
+        <a href="/constitution">
+            Constitution of the Association
+        </a>
     </div>
 </article>

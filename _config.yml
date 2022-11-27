@@ -122,6 +122,8 @@ suka_theme:
 deploy:
   type: ''
 
+buildTs: 1
+
 # hexo-admin authentification
 admin:
   username: admin

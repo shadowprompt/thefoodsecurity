@@ -10,10 +10,18 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    text-align: center;
 }
 .post_flex_center {
     display: flex;
     align-items: center;
+}
+
+.p_bold {
+    font-weight: 600;
+}
+.p_mt16_p {
+    margin-top: 16px;
 }
 
 #events_blog * {
@@ -31,9 +39,6 @@
 #events_blog .introduce_item {
     margin: 4px 0;
 }
-#events_blog .p_bold {
-    font-weight: 600;
-}
 #events_blog figure .figure_text_after_img:before{
     content: attr(data-c-caption) ' ';
     font-size: 12px;
@@ -48,13 +53,12 @@
     margin-bottom: 8px;
 }
 
-figure_text_after_img
-#initiative_blog * {
-    color: #000000;
-}
-#initiative_blog .post_flex_center_center{
-    text-align: center;
-}
+/*#initiative_blog * {*/
+/*    color: #000000;*/
+/*}*/
+/*#initiative_blog .post_flex_center_center{*/
+/*    text-align: center;*/
+/*}*/
 
 #aboutUs_blog * {
     color: #000000;
