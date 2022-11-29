@@ -45,8 +45,7 @@ comments: false
         <span class="dash">-</span> International Maize and Wheat Improvement Center (CIMMYT)
     </div>
     <div class="p_item">
-        <span class="dash">-</span> Leibniz Institute for Agricultural Development in Transformation Economies
-        (IAMO)
+        <span class="dash">-</span> Leibniz Institute of Agricultural Development in Transition Economies (IAMO)
     </div>
     <div style="font-weight: 600;">
         Advisory Board
@@ -61,8 +60,7 @@ comments: false
         Dr. Bram Govaerts (International Maize and Wheat Improvement Center)
     </div>
     <div class="p_item">
-        Prof. Thomas Glauben (Leibniz Institute for Agricultural Development in
-        Transformation Economies)
+        Prof. Thomas Glauben (Leibniz Institute of Agricultural Development in Transition Economies)
     </div>
     <div class="p_item">
         Prof. Channing Ardnt (International Food Policy Research Institute)
@@ -90,7 +88,7 @@ comments: false
             Presidium:
         </span>
         <span class="people">
-            Prof. Xiaoyun Li, Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Su
+            Prof. Xiaoyun Li, Prof. Gucheng Li, Dr. Derek Headey, Dr. Awais Rasheed, Dr. Zhanli Sun
         </span>
     </div>
     <div class="p_intro">

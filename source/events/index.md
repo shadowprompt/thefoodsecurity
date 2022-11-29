@@ -30,7 +30,7 @@ comments: false
         - International Maize and Wheat Improvement Center (CIMMYT)
     </div>
     <div class="p_item">
-        - Leibniz Institute for Agricultural Development in Transformation Economies (IAMO)
+        - Leibniz Institute of Agricultural Development in Transition Economies (IAMO)
     </div>
     <p style="font-size:20px;font-weight: 600;">
         Dates:

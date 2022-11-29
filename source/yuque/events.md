@@ -5,7 +5,7 @@ The forum aims to bring together scientists, scholars and innovators from differ
 Huazhong Agricultural University (HZAU)
 International Food Policy Research Institute (IFPRI)
 International Maize and Wheat Improvement Center (CIMMYT)
-Leibniz Institute for Agricultural Development in Transformation Economies (IAMO)
+Leibniz Institute of Agricultural Development in Transition Economies (IAMO)
 **Dates:**
 
 - 2-3 December 2022
