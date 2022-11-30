@@ -69,7 +69,7 @@ comments: false
         Prof. Shenggen Fan (China Agricultural University)
     </div>
     <div class="p_item">
-        Prof. Guoqiang Chen (Renmin University of China)
+        Prof. Guoqiang Cheng (Renmin University of China)
     </div>
     <div class="p_item">
         Prof. Jing Zhu (Nanjing Agricultural University)
