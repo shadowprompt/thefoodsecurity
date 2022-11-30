@@ -12,11 +12,8 @@ comments: false
     <p class="post_flex_center_center">
         <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event2.png">
     </p>
-    <p class="post_flex_center_center">
-        <span><a href="https://wp-img.daozhao.com.cn/thefoodsecurity/event.pdf" target="_blank">Full version of the program</a></span>
-    </p>
-    <h3 class="post_flex_center_center">
-        Global Food Security Forum for Young Scientists
+    <h3>
+        <span><a href="https://wp-img.daozhao.com.cn/thefoodsecurity/Global%20Food%20Security%20Forum_handbook.pdf" target="_blank" style="color: #000">Full version of the program</a></span>
     </h3>
     <p>
         The forum aims to bring together scientists, scholars and innovators from
