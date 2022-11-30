@@ -9,8 +9,11 @@ comments: false
     <p class="post_flex_center_center">
         <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event1.png">
     </p>
-<p class="post_flex_center_center">
+    <p class="post_flex_center_center">
         <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event2.png">
+    </p>
+    <p class="post_flex_center_center">
+        <span><a href="https://wp-img.daozhao.com.cn/thefoodsecurity/event.pdf" target="_blank">Full version of the program</a></span>
     </p>
     <h3 class="post_flex_center_center">
         Global Food Security Forum for Young Scientists
