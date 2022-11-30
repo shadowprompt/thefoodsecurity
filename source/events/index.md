@@ -7,7 +7,10 @@ comments: false
 
 <article id="events_blog">
     <p class="post_flex_center_center">
-        <img src="https://emc.hzau.edu.cn/__local/0/E5/70/C584C66A0A479E2F82D2EC3FB85_EAE72A25_BB15.jpg">
+        <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event1.png">
+    </p>
+<p class="post_flex_center_center">
+        <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event2.png">
     </p>
     <h3 class="post_flex_center_center">
         Global Food Security Forum for Young Scientists
