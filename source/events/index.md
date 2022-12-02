@@ -13,7 +13,7 @@ comments: false
         <img src="https://wp-img.daozhao.com.cn/thefoodsecurity/event2.png">
     </p>
     <h3>
-        <span><a href="https://wp-img.daozhao.com.cn/thefoodsecurity/Global%20Food%20Security%20Forum_handbook.pdf" target="_blank" style="color: #000">Full version of the program</a></span>
+        <span><a href="https://wp-img.daozhao.com.cn/thefoodsecurity/doc/Global%20Food%20Security%20Forum_handbook.pdf" target="_blank" style="color: #000">Full version of the program 完整会议手册（点击下载）</a></span>
     </h3>
     <p>
         The forum aims to bring together scientists, scholars and innovators from
