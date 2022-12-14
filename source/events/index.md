@@ -139,4 +139,7 @@ comments: false
             Fellow of the American Agricultural Economic Association (AAEA)
         </div>
     </section>
+    <video id="video" style="width: 100%;margin-top: 36px;" controls="" preload="none" poster="https://wp-img.daozhao.com.cn/thefoodsecurity/article/establishment-of-the-food-security_4.jfif">
+      <source id="mp4" src="https://wp-img.daozhao.com.cn/thefoodsecurity/article/cd74d644a74e44936305badc0740f4a9_f8f04bd3d0185419ff94b1a73e2fcfd2_8.m4v" type="video/mp4">
+    </video>
 </article>
