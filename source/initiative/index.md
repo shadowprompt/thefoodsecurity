@@ -28,7 +28,7 @@ comments: false
         <span class="p_bold">We are committed to grow in the practice of implementing food security initiatives. </span>As participants in global food security governance and decision-makers for the future, we shall take the lead of making changes from small things and influence others, with an aim of aligning our sense of responsibility with the common development of all humankind, and advance our global vision, leadership, and competence through the personal practice in promoting food security.
     </p>
     <h3 class="post_flex_center_center">
-        全球粮食安全青年科学家联盟倡议
+        青年科学家联合起来，为世界发展中国家和不发达地区粮食安全贡献青春和力量
     </h3>
     <p>
         当今世界正以前所未有的速度发生变化，人类面临着多重全球性的挑战。近年来，全球气候加剧变暖，极端天气频繁发生，区域性冲突和局部战争不断，新冠肺炎疫情持续施虐，使得全球经济发展面临巨大的不确定性。全球的科学家肩负为应对各种已经出现和可能会出现的挑战提供有效的策略和方案的使命。作为学术领域最活跃、最富有创新性的群体，青年科学家理应成为促进全球粮食安全对话和多边合作、提供全球粮食风险与不平等问题解决方案的重要推动者和实践者。
