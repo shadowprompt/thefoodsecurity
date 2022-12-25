@@ -127,6 +127,8 @@ qrcode:
   index_share: true
   post_share: true
 
+# 文章列表是否显示标题
+_showCategoryTitle: false
 
 # ---------------------------------------------------------------
 # Post Settings
@@ -432,11 +434,6 @@ old_verison:
   - 1.2.0
   - 1.3.0
   - 1.3.2
-
-admin:
-  username: myfavoritename
-  password_hash: be121740bf988b2225a313fa1f107ca1
-  secret: a secret something
 
 pjax:
   enable: false
