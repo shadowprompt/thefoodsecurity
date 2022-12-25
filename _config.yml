@@ -123,9 +123,3 @@ deploy:
   type: ''
 
 buildTs: 1
-
-# hexo-admin authentification
-admin:
-  username: admin
-  password_hash: $2a$10$PLhcEI18P4ol42hChvOsS.4D1Uf4AMlJMLAo2xFFiH2LUePZ3L2mC
-  secret: my super secret phrase

@@ -710,11 +710,15 @@ a.category-link {
 
 #post-content * {
     box-sizing: border-box;
+    color: #000000;
 }
 
 #post-content a {
     background-color: transparent;
     text-decoration: none;
+}
+#post-content blockquote a {
+    word-break: break-all;
 }
 
 #post-content a:hover {

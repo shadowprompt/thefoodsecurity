@@ -12,7 +12,7 @@
                     </div>
                 <% } %>
                 <div class="card-body">
-                    <% if (theme.toc.enable && (page.toc !== false) ) { %>
+                    <% if (theme.toc.enable && (page.toc === true) ) { %>
                         <% const toc_obj = toc(page.content, {
                             class: 'post-toc',
                             list_number: theme.toc.line_number || false
@@ -29,7 +29,7 @@
                 <% if (page._showPagination) { %>
                     <%- partial('_partial/post/footer-pagination') %>
                 <% } %>
-                <% if (page.comments !== false) { %>
+                <% if (page._comments === true) { %>
                     <!-- # Comment # -->
                     <% if (theme.comment.use) { %>
                         <div class="card-footer post-comment">
