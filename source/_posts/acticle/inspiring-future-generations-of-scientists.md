@@ -1,17 +1,11 @@
 ---
 date: 2022-12-12 21:45:00
-_showUpdateTime: false
-toc: false
-comments: false
-_showCategoryTitle: false
-_showCategoryBelong: false
-_showPagination: false
-_showAuthor: false
 title: "Inspiring future generations of scientists"
 categories:
 - [posts]
 ---
-#### Inspiring future generations of scientists
+
+### Inspiring future generations of scientists ###
 
 The Global Food Security Forum for Young Scientists, hosted at Huazhong Agricultural University in China and virtually around the world, highlights cutting-edge agricultural research.
 > Author: Sarah McLaughlin

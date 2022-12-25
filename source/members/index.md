@@ -5,10 +5,9 @@ toc: false
 comments: false
 ---
 
-<article id="aboutUs_blog">
-    <h3 class="post_flex_center_center">
-        Members of the Association
-    </h3>
+<h3 class="post_flex_center_center">
+    Members of the Association
+</h3>
 
 | Name | Affiliation     | Name                   | Affiliation     |
 | --- |-----------------|------------------------|-----------------| 
@@ -41,9 +40,4 @@ comments: false
 | Youhua Chen  |    South China Agricultural Univ. | Yueqing Ji             |  Nanjing Agricultural Univ. |
 | Zhigang Xu  |  Nanjing Agricultural Univ. | Zhuang Hao             |  HZAU | 
 
-<div class="p_intro">
-    <a href="/registration" style="font-weight: 600;color: #000;">
-        Apply for membership
-    </a>
-</div>
-</article>
+#### [Apply for membership](/registration) ####
