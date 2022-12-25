@@ -1,10 +1,5 @@
 ---
 date: 2022-11-26 18:15:01
-_showCategoryTitle: true
-_showCategoryBelong: true
-_showPrevNext: true
-_showAuthor: true
-_comments: true
 title: "Bringing voluntary carbon offset markets to smallholder Indian farmers"
 categories:
 - [posts]
