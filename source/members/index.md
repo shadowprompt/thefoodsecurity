@@ -1,8 +1,5 @@
 ---
 title: Members of the Association
-_showUpdateTime: false
-toc: false
-comments: false
 ---
 
 <h3 class="post_flex_center_center">
